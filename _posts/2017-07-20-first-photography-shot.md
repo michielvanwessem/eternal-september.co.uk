@@ -30,17 +30,21 @@ There will undoubtedly be more photos posted in due time. One of the things that
 Both these photos are the end result of playing around with various filters, and both turned out really well.
 
 <div style="text-align:center">
-![longbow at rest](/content/images/2017/07/longbow-1.jpg)
+  <img src="/assets/images/2017/07/longbow-1.jpg" alt="Longbow at rest" width="85%" height="85%">
+  <sup>Orginal can be found on <a href="https://www.instagram.com/p/BWxy3EFA0vR/?taken-by=michiel_van_wessem&hl=en">instagram</a></sup>
 </div>
 
-<center><sup>Orginal can be found on [instagram](https://www.instagram.com/p/BWxy3EFA0vR/?taken-by=michiel_van_wessem&hl=en)</sup></center>
+<br />
 
 This is a close up / macro shot of a Longbow, which was just gorgeous to look at and is coveted by many an archer at the grounds. I wanted to capture the beautiful graining that was visible on the limbs of the bow. While the original shot was showing of the red of the bench and the lush green of the grass. I wanted to make the bow stand out even sharper and decided to turn the background into black and white. 
 
 <div style="text-align:center">
-![sophie, a gorgeous puppy](/content/images/2017/07/sophie-1.jpg)
+  <img src="/assets/images/2017/07/sophie-1.jpg" alt="Sophie, a gorgeous puppy">
+  <sup>Original can be found on <a href="https://www.instagram.com/p/BWxRGQlgDfW/?taken-by=michiel_van_wessem&hl=en">instagram</a></sup>
 </div>
-<center><sup>Original can be found on [instagram](https://www.instagram.com/p/BWxRGQlgDfW/?taken-by=michiel_van_wessem&hl=en)</sup></center>
+
+<br />
+
 This gorgeous little puppy is named Sohpie, and belongs to one of the archers at the club, a longbow shooter. She is adorable and very friendly and playful. It took me a fair few shots and enticing her with a ball just out of reach to get her to look. Sport shots are a blessing in these circumstances!
 
 &nbsp;
