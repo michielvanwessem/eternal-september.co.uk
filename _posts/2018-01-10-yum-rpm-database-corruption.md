@@ -11,6 +11,7 @@ author: 'michiel'
 categories: michiel 
 ---
 
+<br />
 Yum (Yellow Dog Updater, Modified) is a decent package manager for CentOS, and one I have decently gotten to grips with, during my work at my current company (we primairily run CentOS 6 and 7 boxes.
 
 However from time to time you do get the problem that the Yum database becomes corrupted. If this happens you will find something like the following error on your screen:
@@ -29,7 +30,7 @@ Luckily this is not as disastrous as it would seem. Yum is a rather stable packa
 
 So, how do you fix this? First of all we need to remove the old metadata files, and recreate them:
 
-####### Removing the old, corrupted database.
+#### Removing the old, corrupted database.
 
 The Yum database is  stored in the below directory:
 
@@ -41,7 +42,7 @@ Remove to the files that are causing the corruption. These are only those named 
 
 &nbsp;
 
-####### Rebuild the database
+#### Rebuild the database
 
 Once this is done, you can rebuild the metadata from scractch using the following commands:
 
