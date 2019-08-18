@@ -7,19 +7,19 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Eternal September'
+description: "Thoughts, musings, and technical writings of a grumpy sys-admin"
 
-short_url: 'jekyller.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+short_url: 'blog.eternal-september.co.uk'
+google_analytics: UA-145865467-1
+#disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: '/'
 
 # Permalinks
 permalink: /:title
-# permalink: /author/:username
-# permalink: /tag/:tag
+#permalink: /author/:username
+#permalink: /tag/:tag
 
 # gems and other configs
 plugins: [jekyll-paginate]
@@ -49,7 +49,7 @@ username: jekyller
 repo: jasper
 branch: master
 relative_source: ../jasper/
-destination: ../jasper-pages/
+destination: ../blog_output/
 production_url:  https://jekyller.github.io/jasper/
 source_url:  https://github.com/jekyller/jasper/
 
@@ -64,3 +64,4 @@ exclude:
   - .travis.yml
   - node_modules
   - .git
+  - scripts/create_blogpost.sh

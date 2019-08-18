@@ -1,35 +1,19 @@
-casper:
-  username: casper
-  name: Casper McFadden
-  location: Maine, USA
+ghost:
+  username: ghost
+  name: ghost blog 
+  location: the cloud, internet
   url_full: http://jekyller.github.io/jasper/
   url: jekyller.github.io/jasper
-  bio: A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and a friendly one, Casper.
+  bio: test/content writer
   assets: assets/images/casper.png
-lewis:
-  username: lewis
-  name: Lewis Carroll
-  location: Cheshire, England
-  url_full: http://jekyller.github.io/jasper/
-  url: jekyller.github.io/jasper
-  bio: My real name is Charles Lutwidge Dodgson, but people call me Lewis. I'm an English writer, mathematician, logician, Anglican deacon and photographer. People know me best for writing about Alice.
-  assets: assets/images/lewis.jpeg
-abraham:
-  username: abraham
-  name: Abraham Lincoln
-  location: Kentucky, USA
-  url_full: http://jekyller.github.io/jasper/
-  url: jekyller.github.io/jasper
-  bio: I was the 16th president of the USA until I was assassinated in April of 1963. I led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
-  assets: assets/images/abraham.jpg
-edgar:
-  username: edgar
-  name: Edgar Rice Burroughs
-  location: Chicago, Illinois
-  url_full: http://jekyller.github.io/jasper/
-  url: jekyller.github.io/jasper
-  bio: I'm an American novelist, best known for my work writing about a brave jungle hero called Tarzan and his muse, Jane.
-  assets: assets/images/edgar.gif
+michiel:
+  username: michiel
+  name: Michiel van Wessem
+  location: Leicester, United Kingdom
+  url_full: https://eternal-september.co.uk/michiel/
+  url: eternal-september.co.uk/michiel
+  bio: Main Author
+  assets: assets/images/michiel.png
 martin:
   username: martin
   name: Martin Luther King
@@ -37,4 +21,4 @@ martin:
   url_full: http://jekyller.github.io/jasper/
   url: jekyller.github.io/jasper
   bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
-  assets: assets/images/martin.jpg
+  assets: assets/images/michiel.png
