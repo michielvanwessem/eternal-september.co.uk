@@ -7,5 +7,17 @@ logo: 'assets/images/ghost.png'
 current: hobbies
 ---
 
-This is where hobbies are published
 
+#### Air Rifle/Air Pistol
+
+all about my love for air rifle and air pistol target shooting
+
+
+#### Archery
+
+Archery - Both barewbow and longbow
+
+#### Petanque
+
+The classial French provencale past time
+Bring on the wine
