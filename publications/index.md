@@ -8,4 +8,4 @@ current: publications
 ---
 
 ## 2007
-* [Slackware 12.0 - A review]({% link publications/slackware-12-a-review %})
+* [Slackware 12.0 - A review]({% link publications/slackware-12-a-review.md %})

@@ -8,7 +8,7 @@ current: publications
 ---
 
 
-![](/content/images/2017/03/slackware_traditional_website_logo.png)
+![](/assets/images/2017/03/slackware_traditional_website_logo.png)
 
 __Author: Michiel van Wessem__ <br />
 __Article orginally published: 2007[¹]__
@@ -128,5 +128,4 @@ Yes, Slackware 12.0 is simply THAT good!.
 
 <br><br>
 [¹]: This article appeared on Sunday, Jul 8, 2007 on "The Slack World", an online e-zine, focusing on the slackware distribution. The article is archived here; as is. 
-
 [²]: This was at the time of writing in 2007. Currently I believe the site switched to gnome based desktops, rather then clean standard installations of Slackware.
