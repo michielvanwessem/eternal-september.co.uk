@@ -7,5 +7,5 @@ logo: 'assets/images/ghost.png'
 current: publications
 ---
 
-This is where publications are published
-
+## 2007
+* [Slackware 12.0 - A review]({% link publications/slackware-12-a-review %})

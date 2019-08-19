@@ -64,4 +64,4 @@ exclude:
   - .travis.yml
   - node_modules
   - .git
-  - scripts/create_blogpost.sh
+  - _scripts/create_blogpost.sh
