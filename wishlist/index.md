@@ -35,11 +35,15 @@ Or ... as [Elizabeth](http://historygeek.co.uk/) told me:
 ##### More for personal reference:
 _(please consult Elizabeth, or myself about this)_
 <br />
-[archery](#archery),
-[petanque](#petanque),
-[clothing](#clothes),
-[house](#house),
-[camping](#camping)
+[Auxiliary wishlist]({% link wishlist/personal.md %})
+<br />
+
+<a href="/wishlist/personal#archery">Archery</a>,
+<a href="/wishlist/personal#petanque">Petanque</a>,
+<a href="/wishlist/personal#clothing">Clothing</a>,
+<a href="/wishlist/personal#house">House & Home</a>,
+<a href="/wishlist/personal#camping">Camping</a>
+
 </div>  
    
 
@@ -252,45 +256,3 @@ _(please consult Elizabeth, or myself about this)_
 </p>
 
 &nbsp;<br />
-
-<div style="text-align:center" markdown="1">
-## For more personal reference:
-</div>
-&nbsp;
-
-*Please double check with both me, or at least with Liz before anything  from here. Again as much as below, this actually more towards my own reference and reminder for what I want.*
-
-&nbsp;
-<a name="sports"></a>
-#### Sports related
-
-##### ••• Archery
-* 
-
-##### ••• Petanque
-
-* [Obut Petanque Boule Canvas Bag](https://www.dcpetanque.net/store/p103/Obut_Canvas_bag.html)
-
-##### ••• Other
-
-
-<p style="text-align:right" markown="1">
-  <a href="#index">...back to top</a>
-  &nbsp;
-</p>
-
-
-#### Clothing
-
-* [tartanista belt]()
-
-* [tartanista sporan]()
-
-
-<a name="house"></a>
-#### House & Home
-&nbsp;
-
-<a name="#camping"></a>
-#### Camping
-&nbsp;
