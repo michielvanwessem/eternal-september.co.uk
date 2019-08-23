@@ -155,6 +155,8 @@ _(please consult Elizabeth, or myself about this)_
 <a name="misc"></a>
 #### Miscellaneous
 
+* [TITANIUM SPORK!](https://www.amazon.co.uk/dp/B01LX7VOM1)
+
 * [16 Pcs Practice Lock Pick Padlock Picking Tools Kit](https://www.amazon.co.uk/dp/B01BB79F2E)
 
 * [ Funko Pop! Television: Bob Ross!](https://funko.com/products/pop-television-bob-ross-bob-ross)

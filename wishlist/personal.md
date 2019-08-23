@@ -29,7 +29,7 @@ _*Please double check with both me, or at least with Liz before anything  from h
 #### • Archery
 
 <p style="text-align:right" markown="1">
-  <a href="">...previous page</a> || <a href="#index">...back to top</a>
+  <a href="/wishlist/index">...previous page</a> || <a href="#index">...back to top</a>
   <br />
   &nbsp;
 </p>
@@ -41,7 +41,7 @@ _*Please double check with both me, or at least with Liz before anything  from h
 
 
 <p style="text-align:right" markown="1">
-  <a href="">...previous page</a> || <a href="#index">...back to top</a>
+  <a href="/wishlist/index">...previous page</a> || <a href="#index">...back to top</a>
   <br />
   &nbsp;
 </p>
@@ -55,7 +55,7 @@ _*Please double check with both me, or at least with Liz before anything  from h
 
 
 <p style="text-align:right" markown="1">
-  <a href="">...previous page</a> || <a href="#index">...back to top</a>
+  <a href="/wishlist/index">...previous page</a> || <a href="#index">...back to top</a>
   <br />
   &nbsp;
 </p>
@@ -66,7 +66,7 @@ _*Please double check with both me, or at least with Liz before anything  from h
 &nbsp;
 
 <p style="text-align:right" markown="1">
-  <a href="">...previous page</a> || <a href="#index">...back to top</a>
+  <a href="/wishlist/index">...previous page</a> || <a href="#index">...back to top</a>
   <br />
   &nbsp;
 </p>
@@ -77,7 +77,7 @@ _*Please double check with both me, or at least with Liz before anything  from h
 &nbsp;
 
 <p style="text-align:right" markown="1">
-  <a href="">...previous page</a> || <a href="#index">...back to top</a>
+  <a href="/wishlist/index">...previous page</a> || <a href="#index">...back to top</a>
   <br />
   &nbsp;
 </p>
