@@ -157,6 +157,13 @@ _(please consult Elizabeth, or myself about this)_
 
 * [TITANIUM SPORK!](https://www.amazon.co.uk/dp/B01LX7VOM1)
 
+* [Troop London Gym Bag](https://www.trooplondon.com/troopbag-men/style/canvas-holdall-suitcase/troop-london-classic-canvas-travel-duffel-bag-canvas-holdall-trp0389.html)
+
+* [CAMELBAK Crux reservoir 2L](https://www.amazon.co.uk/dp/B01LA5FCJ2)
+
+&nbsp;
+
+
 * [16 Pcs Practice Lock Pick Padlock Picking Tools Kit](https://www.amazon.co.uk/dp/B01BB79F2E)
 
 * [ Funko Pop! Television: Bob Ross!](https://funko.com/products/pop-television-bob-ross-bob-ross)
