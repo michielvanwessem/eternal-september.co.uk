@@ -10,7 +10,7 @@ language: 'en-uk'
 name: 'Eternal September'
 description: "Thoughts, musings, and technical writings of a grumpy sys-admin"
 
-short_url: 'blog.eternal-september.co.uk'
+short_url: 'eternal-september.co.uk'
 google_analytics: UA-145865467-1
 #disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
