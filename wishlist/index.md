@@ -180,6 +180,8 @@ _(please consult Elizabeth, or myself about this)_
 
 * [Funko POP Assassin's Creed : Ezio](https://www.amazon.co.uk/dp/B00EWJ47IQ/)
 
+* [Funko POP! Vinyl Scrubs: Dr Cox](https://www.amazon.co.uk/dp/B07HB7B91B)
+
 * [Doctor Who - 12th Doctor W/Guitar](https://www.amazon.co.uk/dp/B01G9STT6C)
 
 * [Marvel POP! Vinyl Deadpool With Gun and Sword](https://www.amazon.co.uk/dp/B00APPF3M0)
