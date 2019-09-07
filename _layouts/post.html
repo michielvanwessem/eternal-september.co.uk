@@ -10,7 +10,6 @@ class: 'post-template'
 
 <!-- Everything inside the #post tags pulls data from the post -->
 <!-- #post -->
-
 <header class="main-header post-head {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
     <nav class="main-nav {% if page.cover %} overlay {% endif %} clearfix">
         {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
@@ -25,6 +24,8 @@ class: 'post-template'
     <article class="{{ page.subclass }}">
 
         <header class="post-header">
+            {% include social_nav.html %}
+            &nbsp;
             <h1 class="post-title">{{ page.title }}</h1>
             <section class="post-meta">
             <!-- <a href='{{ site.baseurl }}{{ page.about }}'>{{ site.author }}</a> -->

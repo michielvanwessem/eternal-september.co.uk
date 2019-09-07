@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: Resume
 cover: 'assets/images/cover-pen.jpg'
 navigation: true
 logo: 'assets/images/ghost.png'
