@@ -1,7 +1,7 @@
 ---
 layout: page
 title: changelog
-cover: 'assets/images/cover-boules.jpg'
+cover: 'assets/images/cover7.jpg'
 navigation: true
 logo: 'assets/images/ghost.png'
 current: changelog
