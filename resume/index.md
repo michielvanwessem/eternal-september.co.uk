@@ -8,7 +8,6 @@ current: resume
 ---
 <a name="index"></a>
 <div style="text-align:center" markdown="1">
-# Resume<br />
 ## Michiel van Wessem<br />
 ##### System-administrator / DevOps-Engineer / Cloud solution Architect<br />
 
@@ -79,12 +78,14 @@ For future roles, I would like to increase my knowledge and understanding of Ama
       <br><br>
       <li>Writing and deployment of Saltstack for configuration management to manage our server configuration in a scalable, and consistent state. This led to a 70-90% reduction in configuration files needing to be kept.</li>
       <li>Write AWS CloudFormation templates to facilitate to spin up server instances via `Infrastructure as Code' (IaC).</li>
-      <li>Migrate the current infrastructure within Rackspace to Amazon Web Services, in many cases without noticeable downtime to our clients</li>
       <li>Design, document, and plan a cloud to cloud migration, including technical design, documentation, and orchestration.</li>
       <li>Developed custom scripts to automate provisioning, deployments, and maintenance task.</li>
       <li>Create a hybrid fallback solution consisting of cross cloud MySQL and RDS Replication, including delayed replicating servers.</li>
-      <li>Scheduling Rota for Out of Hours support. Helped to facilitate project management, chaired strategic sessions, and create more visibility in our current running projects.</li>
+      <li>Migrate the current infrastructure within Rackspace to Amazon Web Services, in many cases without noticeable downtime to our clients</li>
+      <li>Helped to facilitate project management, chaired strategic sessions, and create more visibility in our current running projects.</li>
+      <li>Provided monthly cost overview, set against the total costs of our cloud operations, to highlight diminishing costs.</li>
       <li>Deal with clients as main technical point of contact and manage their expectations.</li>
+      <li>Liased with developpers to agree and arrange technical duty out of hours rota.</li>
     </td>
   </tr>
   
@@ -155,7 +156,7 @@ For future roles, I would like to increase my knowledge and understanding of Ama
   </tr>
   <tr>
     <td></td>
-    <td>Worked on the DWP Account as part of the Refurbishment and Disposal strand of the DWP Digital Office Infrastructure (DOI) Programme.
+    <td>Worked as part of the DWP Account as part of the Refurbishment and Disposal strand of the DWP Digital Office Infrastructure (DOI) Programme.
       <br><br>
       <li>Arrange collection and drop off of equipment at DWP offices.</li>
       <li>Arrange for retrieval and storage of proof-of-delivery and check against project spreadsheet.</li>
@@ -282,7 +283,7 @@ For future roles, I would like to increase my knowledge and understanding of Ama
 
 
 <a name="certification"></a>
-#### Certification
+#### Certification / Accreditations
 
 <table>
 <tbody>
