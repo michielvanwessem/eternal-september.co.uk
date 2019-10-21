@@ -18,6 +18,7 @@ _*Please double check with both me, or at least with Liz before anything  from h
 
 [archery](#archery),
 [petanque](#petanque),
+[walking](#walking),
 [clothing](#clothes),
 [house](#house),
 [camping](#camping)
@@ -34,6 +35,7 @@ _*Please double check with both me, or at least with Liz before anything  from h
   &nbsp;
 </p>
 
+
 <a name="petanque"></a>
 #### • Petanque
 
@@ -47,21 +49,39 @@ _*Please double check with both me, or at least with Liz before anything  from h
 </p>
 
 
-#### Clothing
+<a name="walking"></a>
+### Walking
+&nbsp;
 
-* [tartanista belt]()
+* Compass 
+ 
+* Walking Sticks
 
-* [tartanista sporan]()
+* [Camelbak Crux 2L](https://www.amazon.co.uk/dp/B01LA5F9X6)
 
+* binoculars
+
+* flashlight
 
 <p style="text-align:right" markown="1">
   <a href="/wishlist/index">...previous page</a> || <a href="#index">...back to top</a>
   <br />
   &nbsp;
 </p>
+
+
 <a name="house"></a>
+### Clothing
+&nbsp;
+
+<p style="text-align:right" markown="1">
+  <a href="/wishlist/index">...previous page</a> || <a href="#index">...back to top</a>
+  <br />
+  &nbsp;
+</p>
 
 
+<a name="house"></a>
 #### House & Home
 &nbsp;
 
@@ -70,9 +90,9 @@ _*Please double check with both me, or at least with Liz before anything  from h
   <br />
   &nbsp;
 </p>
+
+
 <a name="#camping"></a>
-
-
 #### Camping
 &nbsp;
 
@@ -81,3 +101,5 @@ _*Please double check with both me, or at least with Liz before anything  from h
   <br />
   &nbsp;
 </p>
+
+
