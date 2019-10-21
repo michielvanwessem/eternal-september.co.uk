@@ -82,6 +82,7 @@ For future roles, I would like to increase my knowledge and understanding of Ama
       <li>Developed custom scripts to automate provisioning, deployments, and maintenance task.</li>
       <li>Create a hybrid fallback solution consisting of cross cloud MySQL and RDS Replication, including delayed replicating servers.</li>
       <li>Migrate the current infrastructure within Rackspace to Amazon Web Services, in many cases without noticeable downtime to our clients</li>
+      <li>Migrate Mercurial repositories from bitbucket to Git version control with Github repositories, due to atlassian cancelling bitbucket mercurial support.</li>
       <li>Helped to facilitate project management, chaired strategic sessions, and create more visibility in our current running projects.</li>
       <li>Provided monthly cost overview, set against the total costs of our cloud operations, to highlight diminishing costs.</li>
       <li>Deal with clients as main technical point of contact and manage their expectations.</li>
