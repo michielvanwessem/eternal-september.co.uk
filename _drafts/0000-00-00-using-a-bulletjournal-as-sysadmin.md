@@ -11,7 +11,7 @@ author: 'michiel'
 categories: michiel
 ---
 
-This post came 
+This post came after reading a thread on the /r/sysadmin sub-reddit.
 
 
 It's a fairly minimal set really.   For my book(s) I use a [start bay notebook](https://www.startbaynotebooks.co.uk/) cover in A5, with 4 printed notebooks, of which currently I really only use two:
