@@ -139,11 +139,7 @@ _(please consult Elizabeth, or myself about this)_
 
 * [Cross Bailey Fountain Pen - Blue](https://www.amazon.co.uk/dp/B012ENWGES)
 
-* [Cross Bailey Fountain Pen - Black ](https://www.amazon.co.uk/dp/B0089TV8UA)
-
 * [Cross Bailey Converter](https://www.amazon.co.uk/dp/B0044R7EQS)
-
-* [Cross Ink - Red](https://www.amazon.co.uk/dp/B01DPGYVSM/)
 
 
 <p style="text-align:right" markown="1">
