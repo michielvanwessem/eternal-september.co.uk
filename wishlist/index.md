@@ -67,8 +67,6 @@ _(please consult Elizabeth, or myself about this)_
 
 * [The Practice of System and Network Administration](https://www.amazon.co.uk/dp/0321492668)
 
-* [The DevOps Handbook](https://www.amazon.co.uk/dp/1942788002)
-
 * [Building MicroServices](https://www.amazon.co.uk/dp/1491950358)
 
 * [Production-Ready Microservices](https://www.amazon.co.uk/dp/1491965975)
@@ -137,10 +135,6 @@ _(please consult Elizabeth, or myself about this)_
 
 * [Classic Rhodium Fountain Pen, Made from a Laphroaig Oak Whisky Cask](http://www.caithnesspens.com/for-sale-lap-fount.php)
 
-* [Cross Bailey Fountain Pen - Blue](https://www.amazon.co.uk/dp/B012ENWGES)
-
-* [Cross Bailey Converter](https://www.amazon.co.uk/dp/B0044R7EQS)
-
 
 <p style="text-align:right" markown="1">
   <a href="#index">...back to top</a>
@@ -155,8 +149,6 @@ _(please consult Elizabeth, or myself about this)_
 * [TITANIUM SPORK!](https://www.amazon.co.uk/dp/B01LX7VOM1)
 
 * [Troop London Gym Bag](https://www.trooplondon.com/troopbag-men/style/canvas-holdall-suitcase/troop-london-classic-canvas-travel-duffel-bag-canvas-holdall-trp0389.html)
-
-* [CAMELBAK Crux reservoir 2L](https://www.amazon.co.uk/dp/B01LA5FCJ2)
 
 &nbsp;
 
@@ -253,9 +245,6 @@ _(please consult Elizabeth, or myself about this)_
 #### Glassware
 
 * [Glencairn Copita Whisky Tasting/Nosing Glass](https://www.amazon.co.uk/dp/B011J5ESJS)
-
-* [Riedel Ouverture Tequila Glasses (Set of 2)](http://www.amazon.co.uk/dp/B002YT8G3S)
-
 
 
 <p style="text-align:right" markown="1">

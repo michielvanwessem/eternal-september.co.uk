@@ -40,9 +40,6 @@ _In case (see for example the walking section) there is more than one item liste
 <a name="petanque"></a>
 #### • Petanque
 
-* [Obut Petanque Boule Canvas Bag](https://www.dcpetanque.net/store/p103/Obut_Canvas_bag.html)
-
-
 <p style="text-align:right" markown="1">
   <a href="/wishlist/index">...previous page</a> || <a href="#index">...back to top</a>
   <br />
@@ -54,17 +51,8 @@ _In case (see for example the walking section) there is more than one item liste
 ### Walking
 &nbsp;
 
-* Compass 
-  * [Eyeskey Waterproof Multifunctional Camouflage](https://www.amazon.co.uk/Eyeskey-Waterproof-Multifunctional-Military-Camouflage/dp/B07R149D4F)
-  * [Eyeskey Professional Multifunctional](https://www.amazon.co.uk/Eyeskey-Professional-Multifunction-activities-Waterproof/dp/B0754H1HPG)
-  * [Suunto MC-2G Global Compass](https://www.amazon.co.uk/Suunto-SS004252010-MC-2G-Global-Compass/dp/B000FEUCRW)
-  * [Silva Ranger](https://www.amazon.co.uk/Silva-Ranger-Compass-Clear-Size/dp/B01F5BC46Q) 
-
 * Walking Sticks
   * [Freedom Walking Pole](https://www.gooutdoors.co.uk/15901624/freedomtrail-walker-pole-single-15901624)
-
-* Hydration
-  * [Camelbak Crux 2L](https://www.amazon.co.uk/dp/B01LA5F9X6)
 
 * binoculars
 
@@ -73,7 +61,6 @@ _In case (see for example the walking section) there is more than one item liste
 * Ordenance Survey Maps<br>
   _Unless mentioned these are the waterproof maps (aka Active) in 1:25000 scale (OS Explorer maps)._
   _See also this useful [map-number reference site](https://www.ordnancesurvey.co.uk/shop/mapsheetfinder.html):_
-  * [233: Leicester & Hinckley](https://www.ordnancesurvey.co.uk/shop/maps.html?mapsearch=233)
   * [246: Loughborough, Melton Mowbray & Syston](https://www.ordnancesurvey.co.uk/shop/maps.html?mapsearch=246)
   * [245: National Forest](https://www.ordnancesurvey.co.uk/shop/maps.html?mapsearch=245)
   * [222: Rugby & Daventry](https://www.ordnancesurvey.co.uk/shop/maps.html?mapsearch=222)
