@@ -40,7 +40,7 @@ _(please consult Elizabeth, or myself about this)_
 
 <a href="/wishlist/personal#archery">Archery</a>,
 <a href="/wishlist/personal#petanque">Petanque</a>,
-<a href="/wishlist/personal#walking">Walking</a>,
+<a href="/wishlist/personal#walking">Walking</a><br />
 <a href="/wishlist/personal#clothing">Clothing</a>,
 <a href="/wishlist/personal#house">House & Home</a>,
 <a href="/wishlist/personal#camping">Camping</a>
