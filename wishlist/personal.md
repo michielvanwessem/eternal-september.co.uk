@@ -19,6 +19,8 @@ _In case (see for example the walking section) there is more than one item liste
 
 [archery](#archery),
 [petanque](#petanque),
+[darts](#darts),
+[rosary](#rosary),
 [walking](#walking),
 [clothing](#clothes),
 [house](#house),
