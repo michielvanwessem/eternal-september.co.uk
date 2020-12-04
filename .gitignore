@@ -11,7 +11,7 @@
 
 # others
 *.swp
-
+*.backup
 # site build
 *.gem
 *.rbc
