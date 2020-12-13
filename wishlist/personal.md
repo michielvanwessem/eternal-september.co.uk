@@ -42,6 +42,9 @@ _In case (see for example the walking section) there is more than one item liste
 <a name="petanque"></a>
 #### • Petanque
 
+* [ Obut Boules Ball Collector](https://www.amazon.co.uk/gp/product/B01B9Y8YHG)
+
+* [Obut Le Duo Tir](https://www.amazon.co.uk/Obut-Le-Duo-Tr/dp/B08BCJ3F1M)
 <p style="text-align:right" markown="1">
   <a href="/wishlist/index">...previous page</a> || <a href="#index">...back to top</a>
   <br />
@@ -77,6 +80,11 @@ _In case (see for example the walking section) there is more than one item liste
 
 <a name="house"></a>
 ### Clothing
+
+
+[Retro Vintage Petanque Game Player T-Shirt (2XL)](https://www.amazon.co.uk/dp/B07SZ24Z75/)
+
+[Petanque-Simple-French-Boules-T-Shirt (2XL)](https://www.amazon.co.uk/dp/B07SZ215X)
 &nbsp;
 
 <p style="text-align:right" markown="1">
