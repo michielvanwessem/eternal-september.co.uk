@@ -53,27 +53,14 @@ _(please consult Elizabeth, or myself about this)_
 <a name="books"></a> 
 #### Books (hardcopy)
 
-* [The Book of PF, 3rd edition](https://www.amazon.co.uk/dp/B00SLUQBYK)
+##### ••• Religious
 
-* [Programming Python](https://www.amazon.co.uk/dp/0596158106)
+* [The Roman Breviary](https://www.baroniuspress.com/book.php?wid=56&bid=59#tab=tab-1)
 
-* [Automate the Boring Stuff with Python](https://www.amazon.co.uk/d/1593275994)
+* [Divine Intimacy](https://www.baroniuspress.com/book.php?wid=56&bid=48#tab=tab-1)
 
-* [Terraform; Up and Running](https://www.amazon.co.uk/dp/1491977086/)
+* [The Ceremonies of the Roman Rite Described](http://www.theabbeyshop.com/product_info.php?products_id=659)
 
-* [Infrastructure as Code: Managing Servers in the Cloud](https://www.amazon.co.uk/dp/1491924357)
-
-* [Practice of Cloud System Administration](https://www.amazon.co.uk//dp/032194318X)
-
-* [The Practice of System and Network Administration](https://www.amazon.co.uk/dp/0321492668)
-
-* [Building MicroServices](https://www.amazon.co.uk/dp/1491950358)
-
-* [Production-Ready Microservices](https://www.amazon.co.uk/dp/1491965975)
-
-* [Systems Performance Enterprise and the Cloud](https://www.amazon.co.uk/dp/0133390098)
-
-* [Kubernetes: Up and Running](https://www.amazon.co.uk/dp/1491935677)
 
 <p style="text-align:right" markown="1">
   <a href="#index">...back to top</a>
@@ -85,7 +72,7 @@ _(please consult Elizabeth, or myself about this)_
 #### Kindle E-books
 * __*Kindle gift cards are likely to be the bette option since I don't think you can gift specific books via kindle.*__
 
-* [The Proteus Paradox: How Online Games and Virtual Worlds Change Us-- and How They Don't](http://www.amazon.co.uk/dp/0300212720)
+* [Amazon Gift Cards](https://www.amazon.co.uk/b?ie=UTF8&node=8987221031)
 
 
 <p style="text-align:right" markown="1">
@@ -120,8 +107,6 @@ _(please consult Elizabeth, or myself about this)_
 
 * [Monty Python: The Movies - 4 Disc Box Set DVD](http://www.amazon.co.uk/dp/B00008WQ9X)
 
-* [Father Ted - Complete Box Set DVD](http://www.amazon.co.uk/dp/B008H2XE8I)
-
 * [•M•A•S•H• - Martini's & Medicine Collection](https://www.amazon.co.uk/dp/B000X41CE6)
 
 
@@ -133,7 +118,6 @@ _(please consult Elizabeth, or myself about this)_
 <a name="writing"></a>
 #### Writeware
 
-* [Classic Rhodium Fountain Pen, Made from a Laphroaig Oak Whisky Cask](http://www.caithnesspens.com/for-sale-lap-fount.php)
 
 
 <p style="text-align:right" markown="1">
@@ -146,16 +130,20 @@ _(please consult Elizabeth, or myself about this)_
 <a name="misc"></a>
 #### Miscellaneous
 
+
+* [Padre Pio Pocket Rosary](https://ruggedrosaries.com/collections/pocket-rosaries/products/padre-pio-pocket-rosary)
+
+* [Black Monk Rosary](https://ruggedrosaries.com/collections/paracord-rosaries/products/black-monk-rosaries)
+
+&nbsp;
+
 * [TITANIUM SPORK!](https://www.amazon.co.uk/dp/B01LX7VOM1)
 
-* [Troop London Gym Bag](https://www.trooplondon.com/troopbag-men/style/canvas-holdall-suitcase/troop-london-classic-canvas-travel-duffel-bag-canvas-holdall-trp0389.html)
 
 &nbsp;
 
 
-* [16 Pcs Practice Lock Pick Padlock Picking Tools Kit](https://www.amazon.co.uk/dp/B01BB79F2E)
-
-* [ Funko Pop! Television: Bob Ross!](https://funko.com/products/pop-television-bob-ross-bob-ross)
+* [ Funko Pop! Television: Bob Ross!](https://www.amazon.co.uk//dp/B071X7HZBN)
 
 * [Funko Pop! Games: Dishonored 2 - Corvo Vinyl Figure](https://www.amazon.co.uk/dp/B01LEJCV0M)
 
@@ -192,18 +180,28 @@ _(please consult Elizabeth, or myself about this)_
 
 ##### ••• Whisky
 
+
+* Any good single malt from the [Laphroaig](https://www.masterofmalt.com/distilleries/laphroaig-whisky-distillery/) / [Ardbeg](https://www.masterofmalt.com/distilleries/ardbeg-whisky-distillery/) / [Lagavullin](https://www.masterofmalt.com/distilleries/lagavulin-whisky-distillery/) Distillery
+
 * [Laphroaig An Cuan Mò](https://www.masterofmalt.com/whiskies/laphroaig/laphroaig-an-cuan-mor-whisky/)
 
 * [Ardbeg An OA](https://www.masterofmalt.com/whiskies/ardbeg/ardbeg-an-oa-whisky/)
 
-* Any good single malt from the [Laphroaig](https://www.masterofmalt.com/distilleries/laphroaig-whisky-distillery/) / [Ardbeg](https://www.masterofmalt.com/distilleries/ardbeg-whisky-distillery/) / [Lagavullin](https://www.masterofmalt.com/distilleries/lagavulin-whisky-distillery/) Distillery
 
-* [Spirit of Hven Tycho's Star](https://www.masterofmalt.com/whiskies/spirit-of-hven/spirit-of-hven-tychos-star-whisky/)
-* [Evan Williams Single Barrel 2003 Vintage](http://www.masterofmalt.com/whiskies/heaven-hill/evan-williams-single-barrel-2003-vintage-whiskey/?srh=1)
+* [Peats Beast](https://www.masterofmalt.com/whiskies/peats-beast-peat-malt-whisky/)
 
-##### ••• Gin
+* [Pederyn Madeiria Welsh Single Malt](https://www.masterofmalt.com/whiskies/penderyn/penderyn-maderia-finish-whisky/?srh=1)
 
-* [Ransom Spirits - Old Tom Gin](https://www.masterofmalt.com/gin/ransom-spirits/ransom-old-tom-gin/)
+
+
+##### ••• Gin / Vodka 
+
+* [Gin Mare](https://www.masterofmalt.com/gin/the-botanist/the-botanist-islay-dry-gin/?srh=1)
+
+* [Botanist](https://www.masterofmalt.com/gin/the-botanist/the-botanist-islay-dry-gin/?srh=1)
+
+* [Grey Goose Vodka](https://www.masterofmalt.com/vodka/grey-goose-vodka/?shr=1)
+
 
 ##### ••• Tequilla
 
@@ -226,13 +224,6 @@ _(please consult Elizabeth, or myself about this)_
 <a name="coffee"></a>
 #### Coffee & Tea
 
-* [Cast Iron Tea Pot set with heater](https://www.amazon.co.uk/d/B019Y0RQE4)
-
-* [Bodum Chambord Coffee Maker, 0.5 L](https://www.amazon.co.uk/dp/B00012D0R2)
-
-* [X-Chef Double walled Stainless Steel French Press](https://www.amazon.co.uk/dp/B01IBJ1WJ4/)
-
-* [Ceramic Beer Style Coffee Mug](https://www.amazon.co.uk//dp/B011MP9GXS)
 
 
 <p style="text-align:right" markown="1">
@@ -244,9 +235,9 @@ _(please consult Elizabeth, or myself about this)_
 <a name="glass"></a> 
 #### Glassware
 
-* [Glencairn Copita Whisky Tasting/Nosing Glass](https://www.amazon.co.uk/dp/B011J5ESJS)
+[Wooden Ale Tankard](https://www.etsy.com/uk/listing/644759659/natural-wooden-mug-beer-tankard-brown)
 
-
+	
 <p style="text-align:right" markown="1">
   <a href="#index">...back to top</a>
   &nbsp;
