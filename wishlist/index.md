@@ -135,6 +135,8 @@ _(please consult Elizabeth, or myself about this)_
 
 * [Black Monk Rosary](https://ruggedrosaries.com/collections/paracord-rosaries/products/black-monk-rosaries)
 
+* [Saint Joseph Chaplet](https://ruggedrosaries.com/products/chaplet_of_st_joseph)
+
 &nbsp;
 
 * [TITANIUM SPORK!](https://www.amazon.co.uk/dp/B01LX7VOM1)
