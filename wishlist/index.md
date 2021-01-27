@@ -86,8 +86,6 @@ _(please consult Elizabeth, or myself about this)_
 
 * [Death Vigil - Volume I](https://www.amazon.co.uk/dp/1632152789)
 
-* [Bloodstain - Volume I](https://www.amazon.co.uk/dp/1632155443/)
-
 * [Bloodstain - Volume II](https://www.amazon.co.uk/dp/1632157683)
 
 * [Bloodstain - Volume III](https://www.amazon.co.uk/dp/153430102X)
@@ -104,8 +102,6 @@ _(please consult Elizabeth, or myself about this)_
 #### DVDs / Blue-Rays / Boxsets
 
 * [Fawlty Towers - Remastered DVD - 1975](https://www.amazon.co.uk/dp/B002KSA3XE)
-
-* [Monty Python: The Movies - 4 Disc Box Set DVD](http://www.amazon.co.uk/dp/B00008WQ9X)
 
 * [•M•A•S•H• - Martini's & Medicine Collection](https://www.amazon.co.uk/dp/B000X41CE6)
 
