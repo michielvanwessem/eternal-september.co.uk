@@ -56,9 +56,6 @@ _In case (see for example the walking section) there is more than one item liste
 ### Walking
 &nbsp;
 
-* Walking Sticks
-  * [Freedom Walking Pole](https://www.gooutdoors.co.uk/15901624/freedomtrail-walker-pole-single-15901624)
-
 * binoculars
 
 * flashlight
