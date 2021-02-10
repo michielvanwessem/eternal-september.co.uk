@@ -67,6 +67,8 @@ _In case (see for example the walking section) there is more than one item liste
   * [245: National Forest](https://www.ordnancesurvey.co.uk/shop/maps.html?mapsearch=245)
   * [222: Rugby & Daventry](https://www.ordnancesurvey.co.uk/shop/maps.html?mapsearch=222)
   * [234: Rutland Water](https://www.ordnancesurvey.co.uk/shop/maps.html?mapsearch=234)
+  
+* [Osprey HikeLite 32L](https://www.ospreyeurope.com/shop/gb_en/hikelite-32-2019)
 
 <p style="text-align:right" markown="1">
   <a href="/wishlist/index">...previous page</a> || <a href="#index">...back to top</a>
@@ -105,6 +107,8 @@ _In case (see for example the walking section) there is more than one item liste
 <a name="#camping"></a>
 #### Camping
 &nbsp;
+
+* [Valiant Portable Charcoal Picnic BBQ, FIR551](https://www.amazon.co.uk/dp/B07CZQ28M)
 
 <p style="text-align:right" markown="1">
   <a href="/wishlist/index">...previous page</a> || <a href="#index">...back to top</a>
