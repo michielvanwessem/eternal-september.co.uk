@@ -61,6 +61,10 @@ _(please consult Elizabeth, or myself about this)_
 
 * [The Ceremonies of the Roman Rite Described](http://www.theabbeyshop.com/product_info.php?products_id=659)
 
+* [Pious Union of St Joseph: Manual of Devotion for Every Day](https://www.amazon.co.uk/Pious-Union-St-Joseph-devotion/dp/B0007GTXS2)
+
+* [Marian Missal Trad. Mass](https://www.cenacle.co.uk/the-new-marian-missal-traditional-mass-black.html)
+
 
 <p style="text-align:right" markown="1">
   <a href="#index">...back to top</a>
