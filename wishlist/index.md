@@ -34,7 +34,7 @@ Or ... as [Elizabeth](http://historygeek.co.uk/) told me:
 
 ##### More for personal reference:
 _(please consult Elizabeth, or myself about this)_
-<!--
+
 <br />
 [Auxiliary wishlist]({% link wishlist/personal.md %})
 <br />
