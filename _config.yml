@@ -55,6 +55,7 @@ source_url:  https://github.com/jekyller/jasper/
 
 exclude:
   - README.md
+  - "*.md.backup"
   - Rakefile
   - Gemfile
   - Gemfile.lock
