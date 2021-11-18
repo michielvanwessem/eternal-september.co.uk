@@ -1,4 +1,4 @@
-<FilesMatch "personal.md">
+<FilesMatch "personal.html">
 AuthName "Member Only"
 AuthType Basic
 AuthUserFile /etc/nginx/htpasswd
