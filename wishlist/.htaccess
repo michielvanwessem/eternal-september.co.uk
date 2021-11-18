@@ -1,0 +1,6 @@
+<FilesMatch "personal.md">
+AuthName "Member Only"
+AuthType Basic
+AuthUserFile /etc/nginx/htpasswd
+require valid-user
+</FilesMatch>
