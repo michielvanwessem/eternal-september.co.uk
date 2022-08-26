@@ -51,7 +51,7 @@ For future roles, I would like to increase my knowledge and understanding of Ama
 
 [References](https://eternal-september.co.uk/contact/) can be supplied upon request.
 
-[A PDF copy](https://drive.google.com/open?id=1dMCxLmYq8CsZjhIG12V8RWzwaixH7K8x) of this CV can be downloaded from here.
+[A PDF copy](https://drive.google.com/file/d/1oB3jnY2rQzhMwCg0ta06TaBzHG15IVkh/view?usp=sharing) of this CV can be downloaded from here.
 
 
 <p style="text-align:right" markown="1">
@@ -76,8 +76,13 @@ For future roles, I would like to increase my knowledge and understanding of Ama
     <td>
       <em>(Restart of Hive Online Ltd, with little change in current role as described)</em>
       <br><br>
+      <li>Design, plan, and execute the migration from CentOS to Ubuntu to maintain operational stability and security.</li>
+      <li>Facilitate the development team in upgrading and migrating our code base to Python3.</li>
+      <li>Extend and automate cross region disaster recovery within AWS, making it possible to switch over with minimal downtime with a single command.</li>
+      <li>Migrate and update documentation from Atlassian Confluence to a selfhosted solution, using the Bookstack project.</li>
+      <br>  
       <li>Writing and deployment of Saltstack for configuration management to manage our server configuration in a scalable, and consistent state. This led to a 70-90% reduction in configuration files needing to be kept.</li>
-      <li>Write AWS CloudFormation templates to facilitate to spin up server instances via `Infrastructure as Code' (IaC).</li>
+      <li>Write AWS CloudFormation templates to facilitate spin up server instances via `Infrastructure as Code' (IaC).</li>
       <li>Design, document, and plan a cloud to cloud migration, including technical design, documentation, and orchestration.</li>
       <li>Developed custom scripts to automate provisioning, deployments, and maintenance task.</li>
       <li>Create a hybrid fallback solution consisting of cross cloud MySQL and RDS Replication, including delayed replicating servers.</li>
@@ -423,8 +428,7 @@ Link [[mirrored]]({% link publications/slackware-12-a-review.md %}) locally._
 *(in progress)*: Studying for AWS Certified Solutions Architect Associate Exam.
 
 *(planned)*: Studying for AWS Certified SysOps Administrator<br />
-*(planned)*: Increase proficiency in SQL<br />
-*(planned)*: PRINCE2 Studies for project management<br />
+*(planned)*: Increase proficiency in SQL/pSQL<br />
 <br />
 
 
