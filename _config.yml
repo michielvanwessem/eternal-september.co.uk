@@ -6,6 +6,8 @@ highlighter: rouge
 paginate: 5
 language: 'en-uk'
 
+include: ['.htaccess']
+
 # Website info
 name: 'Eternal September'
 description: "Thoughts, musings, and technical writings of a grumpy sys-admin"
