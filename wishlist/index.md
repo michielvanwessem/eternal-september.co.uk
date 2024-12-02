@@ -21,19 +21,23 @@ Or ... as [Elizabeth](http://historygeek.co.uk/) told me:
 ## Index:    
 [books](#books), 
 [kindle](#kindle),
-[graphical novels](#comics)
+[warhammer](#warhammer),
+[arts and crafts](#artscrafts),
 <br />
-[dvd/blurays](#media), 
-[misc](#misc),
-[writing](#writing)
-<br />
-[booze](#booze), 
+[lego](#lego),
+[barbeque](barbeque)
 [coffee](#coffee),
-[glassware](#glass)
+[glassware](#glass),
+[misc](#misc),
+<br />
+</div>
 
 
+{% comment %}
+<div style="text-align:center" markdown="1">
 ##### More for personal reference:
 _(please consult Elizabeth, or myself about this)_
+
 
 <br />
 [Auxiliary wishlist]({% link wishlist/personal.md %})
@@ -47,6 +51,7 @@ _(please consult Elizabeth, or myself about this)_
 <a href="/wishlist/personal#camping">Camping</a>
 -->
 </div>
+{% endcomment %}
 
 
 &nbsp; &nbsp; &nbsp;
@@ -54,17 +59,9 @@ _(please consult Elizabeth, or myself about this)_
 <a name="books"></a> 
 #### Books (hardcopy)
 
-##### ••• Religious
+* [Warhammer 40,000 - CODEX: Space Marines (10th Edition)](https://www.amazon.co.uk//dp/1804572381)
 
-* [Didache Bible **/hardcover/**](https://www.amazon.co.uk/Didache-Bible/dp/1939231140)
-
-* [The Roman Breviary](https://www.baroniuspress.com/book.php?wid=56&bid=59#tab=tab-1)
-
-* [Divine Intimacy](https://www.baroniuspress.com/book.php?wid=56&bid=48#tab=tab-1)
-
-* [Pious Union of St Joseph: Manual of Devotion for Every Day](https://www.amazon.co.uk/Pious-Union-St-Joseph-devotion/dp/B0007GTXS2)
-
-* [Marian Missal Trad. Mass](https://www.cenacle.co.uk/the-new-marian-missal-traditional-mass-black.html)
+* [Pitt Cue Co. - The Cookbook](https://www.amazon.co.uk/dp/1845337565)
 
 
 <p style="text-align:right" markown="1">
@@ -73,27 +70,12 @@ _(please consult Elizabeth, or myself about this)_
 </p>
 
 
-<a name="kindle"></a>
-#### Kindle E-books
-* __*Kindle gift cards are likely to be the bette option since I don't think you can gift specific books via kindle.*__
 
+<a name="giftcards"></a>
+#### Amazon Gift Cards:
 * [Amazon Gift Cards](https://www.amazon.co.uk/b?ie=UTF8&node=8987221031)
 
-
-<p style="text-align:right" markown="1">
-  <a href="#index">...back to top</a>
-  &nbsp;
-</p>
-
-
-<a name="comics"></a>
-#### Graphical Novels.
-
-* [Death Vigil - Volume I](https://www.amazon.co.uk/dp/1632152789)
-
-* [Bloodstain - Volume II](https://www.amazon.co.uk/dp/1632157683)
-
-* [Bloodstain - Volume III](https://www.amazon.co.uk/dp/153430102X)
+* [Game Workshop Giftcards](https://www.warhammer.com/en-GB/shop/GW-Virtual-Gift-Voucher)
 
 
 <p style="text-align:right" markown="1">
@@ -103,72 +85,43 @@ _(please consult Elizabeth, or myself about this)_
 
 
 
-<a name="media"></a>
-#### DVDs / Blue-Rays / Boxsets
+<a name="warhammer"></a>
+#### Warhammer 40,000
+
+* [Black Templars Castellan](*https://www.warhammer.com/en-GB/shop/black-templars-castellan-2021)
+
+* [Black Templars: Upgrade and Transfers](https://www.warhammer.com/en-GB/shop/black-templars-upgrades-and-transfers-2021)
+
+* [Black Templars: Sword Brethern](https://www.warhammer.com/en-GB/shop/black-templars-sword-brethren-2021)
+
+* [Black Templars: Primaris Crusader Squad](https://www.warhammer.com/en-GB/shop/ black-templars-primaris-crusader-squad-2021)
+
+* [Black Templars: Emperor's Champion](https://www.warhammer.com/en-GB/shop/black-templars-emperors-champion-2021)
+
+* [High Marshall Hellbrecht](https://www.warhammer.com/en-GB/shop/black-templars-high-marshal-helbrecht-2021)
+
+* [Chaplain Grimaldus & Retinue](https://www.warhammer.com/en-GB/shop/black-templars-grimaldus-and-retinue-2021)
+
+* [Kill Team: Starter set](https://www.warhammer.com/en-GB/shop/kill-team-starter-set-2024-eng)
+
+{% comment %}
+
+<p></p>
+
+* ***Kill Team Sets*** 
+
+  * [Warhammer 40,000 - Kill Team: Core Book](https://www.warhammer.com/en-GB/shop/kill-team-core-book-2024-eng)
 
 
-* [•M•A•S•H• - Martini's & Medicine Collection](https://www.amazon.co.uk/dp/B000X41CE6)
+  * [Kill Team: Phobos Strike Team](https://www.warhammer.com/en-GB/shop/kill-team-phobos-strike-team-2024)
 
+    * [Kill Team: Phobos Strike Team - Datacards](https://www.warhammer.com/en-GB/shop/kill-team-datacards-phobos-strike-team-2024-eng)
 
-<p style="text-align:right" markown="1">
-  <a href="#index">...back to top</a>
-  &nbsp;
-</p>
+  * [Kill Team: Scout Squad](https://www.warhammer.com/en-GB/shop/kill-team-scout-squad-2024)
 
-<a name="writing"></a>
-#### Writeware
-
-
-
-<p style="text-align:right" markown="1">
-  <a href="#index">...back to top</a>
-  &nbsp;
-</p>
-
-
-
-<a name="misc"></a>
-#### Miscellaneous
-
-
-* [Padre Pio Pocket Rosary](https://ruggedrosaries.com/collections/pocket-rosaries/products/padre-pio-pocket-rosary)
-
-* [Black Monk Rosary](https://ruggedrosaries.com/collections/paracord-rosaries/products/black-monk-rosaries)
-
-* [Saint Joseph Chaplet](https://ruggedrosaries.com/products/chaplet_of_st_joseph)
-
-&nbsp;
-
-* [TITANIUM SPORK!](https://www.amazon.co.uk/dp/B01LX7VOM1)
-
-
-&nbsp;
-
-
-* [ Funko Pop! Television: Bob Ross!](https://www.amazon.co.uk//dp/B071X7HZBN)
-
-* [Funko Pop! Games: Dishonored 2 - Corvo Vinyl Figure](https://www.amazon.co.uk/dp/B01LEJCV0M)
-
-* [Funko Pop! Games: Dishonored 2 - Outsider Figure](https://www.amazon.co.uk/dp/B01LEJCXX2)
-
-* [Funko Pop! Games: Witcher - Geralt of Rivia](https://www.amazon.co.uk/FUNKO-POP-GAMES-Witcher-Geralt/dp/B01LEYKMFS)
-
-* [Funko Pop! Games: Skyrim - Dovahkiin](https://www.amazon.co.uk/Skyrim-FUNKO-POP-GAMES-Dovahkiin/dp/B00VF20BKG)
-
-* [Funko POP Assassin's Creed : Altair](https://www.amazon.co.uk/d/B00EWJ47OA/)
-
-* [Funko POP Assassin's Creed : Ezio](https://www.amazon.co.uk/dp/B00EWJ47IQ/)
-
-* [Funko POP! Vinyl Scrubs: Dr Cox](https://www.amazon.co.uk/dp/B07HB7B91B)
-
-* [Doctor Who - 12th Doctor W/Guitar](https://www.amazon.co.uk/dp/B01G9STT6C)
-
-* [Marvel POP! Vinyl Deadpool With Gun and Sword](https://www.amazon.co.uk/dp/B00APPF3M0)
-
-* [Karate Kid - Mr. Miyagi](https://www.amazon.co.uk/dp/B00X0Y3Q2M)
-
-* [Toothless!](https://www.amazon.co.uk/dp/B00KGQY0MW)
-
+    * [Kill Team: Scout Squad - Datacards](https://www.warhammer.com/en-GB/shop/kill-team-datacards-scout-squad-2024-eng)
+{% endcomment %}
+    
 
 <p style="text-align:right" markown="1">
   <a href="#index">...back to top</a>
@@ -176,64 +129,99 @@ _(please consult Elizabeth, or myself about this)_
 </p>
 
 
+<a name="artscrafts"></a>
+#### Arts and Crafts related
 
-<a name="booze"></a> 
-#### Booze (because reasons)
+* [Tamiya 300074111 Handsaw with Handle ](https://www.amazon.co.uk/dp/B00CTC7I34)
 
-##### ••• Whisky
+* [Tamiya 74040950 Modelling Knife](https://www.amazon.co.uk/dp/B01LZBRKSA)
 
+* [TAMIYA TAM74104 300074104 Basic File Handle Plastic/RC 3-Piece Set ](https://www.amazon.co.uk/dp/B00CE3L96K)
 
-* Any good single malt from the [Laphroaig](https://www.masterofmalt.com/distilleries/laphroaig-whisky-distillery/) / [Ardbeg](https://www.masterofmalt.com/distilleries/ardbeg-whisky-distillery/) / [Lagavullin](https://www.masterofmalt.com/distilleries/lagavulin-whisky-distillery/) Distillery
+* [Games Workshop Citadel Detail Cutters](https://www.warhammer.com/en-GB/shop/citadel-tools-cutters-2022) or [Tamiya 300074123 Diagonal Pointed Plastic](https://www.amazon.co.uk/dp/B010PG73J4)
 
-* [Laphroaig An Cuan Mò](https://www.masterofmalt.com/whiskies/laphroaig/laphroaig-an-cuan-mor-whisky/)
+* [Games Workshop Citadel Assembly Handle](https://www.amazon.co.uk/dp/B07K2K82JN)
 
-* [Ardbeg An OA](https://www.masterofmalt.com/whiskies/ardbeg/ardbeg-an-oa-whisky/)
+* [Plydolex Paint Rack Organizer with 65 Holes of 2 Sizes](https://www.amazon.co.uk/dp/B097TQHRL8)
 
+* [Citadel Colour Spray Stick](https://www.warhammer.com/en-GB/shop/citadel-colour-spray-stick-2021)
 
-* [Peats Beast](https://www.masterofmalt.com/whiskies/peats-beast-peat-malt-whisky/)
+<p></p>
 
-* [Pederyn Madeiria Welsh Single Malt](https://www.masterofmalt.com/whiskies/penderyn/penderyn-maderia-finish-whisky/?srh=1)
+* **Paints and Primers**
 
+  * ***BASE PAINTS***
 
+      * [Averland Sunset](https://www.warhammer.com/en-GB/shop/Base-Averland-Sunset-2019)
+      * [Celestra Grey](https://www.warhammer.com/en-GB/shop/Base-Celestra-Grey-2019)
+      * [Steel Legion Drab](https://www.warhammer.com/en-GB/shop/Base-Steel-Legion-Drab-2019)
+      * [Wraithbone](https://www.warhammer.com/en-GB/shop/Base-Wraithbone-2019)
+      * [Zandri Dust](https://www.warhammer.com/en-GB/shop/Base-Zandri-Dust-2019)
+      * [White Scar](https://www.warhammer.com/en-GB/shop/Layer-White-Scar-2019)
 
-##### ••• Gin / Vodka 
+  * ***SHADES***
 
-* [Gin Mare](https://www.masterofmalt.com/gin/the-botanist/the-botanist-islay-dry-gin/?srh=1)
+      * [Seraphin Sepia](https://www.warhammer.com/en-GB/shop/shade-seraphim-sepia-18ml-2022)
+      * [Agrax Earthshade](https://www.warhammer.com/en-GB/shop/shade-agrax-earthshade-18ml-2022)
+      * [Casandora Yellow](https://www.warhammer.com/en-GB/shop/shade-agrax-earthshade-18ml-2022)
+      * [Reikland Fleshshade](https://www.warhammer.com/en-GB/shop/shade-reikland-fleshshade-18ml-2022)
 
-* [Botanist](https://www.masterofmalt.com/gin/the-botanist/the-botanist-islay-dry-gin/?srh=1)
+  * ***TECHNICAL***
 
-* [Grey Goose Vodka](https://www.masterofmalt.com/vodka/grey-goose-vodka/?shr=1)
+      * [Stirland Mud](https://www.warhammer.com/en-GB/shop/Technical-Stirland-Mud-2019)
 
-* [Chase English Oak Smoked Vodka Limited Edition](https://thechampagnecompany.com/chase-english-oak-smoked-vodka-limited-edition-70cl)
+  * ***SPARY / PRIMERS***
+  
+      * [White Scar](https://www.warhammer.com/en-GB/shop/white-scar-spray-paint-2022-row)
+      * [Wraithbone](https://www.warhammer.com/en-GB/shop/Wraithbone-Spray-UK-ROW-2020)
 
-##### ••• Tequilla / Rum
-
-* [Santa Teresa 1796 Solera Rum](https://www.amazon.co.uk/dp/B001GLPK2A)
-
-* [Patron Silver Tequila](http://www.amazon.co.uk/dp/B00DEYEIAW)
-
-* [Patron Coffee Liquer Tequila](http://www.amazon.co.uk/dp/B003QDCBW8)
-
-* [Sauza Hornitos Añejo](http://www.masterofmalt.com/tequila/sauza/sauza-hornitos-anejo-tequila/?srh=1)
-
-* [Ocho Reposado Tequila 2011](http://www.masterofmalt.com/tequila/ocho/ocho-reposado-tequila-2011-el-puertecito-tequila/?srh=1)
-
-##### ••• Others
-
-* [Chartreuse Elixir Vegetal Liqueur 10 cl ](https://www.amazon.co.uk/dp/B006E1T4BA)
-
-* [Chartreuse Green Liqueur](https://www.amazon.co.uk/dp/B0029ZG04Y)
 
 <p style="text-align:right" markown="1">
   <a href="#index">...back to top</a>
   &nbsp;
 </p>
 
+
+
+<a name="lego"></a>
+#### LEGO
+
+* [Millennium Falcon™](https://www.lego.com/en-gb/product/millennium-falcon-75375)
+
+* [R2-D2™](https://www.lego.com/en-gb/product/r2-d2-75379)
+
+* [BD-1™](https://elementgames.co.uk/wargaming-toys-and-merch/lego/star-wars/lego-bd-1)
+
+* [Remote Control Light Kit for Lego Notre-Dame de Paris 21061](https://www.amazon.co.uk/dp/B0D5QMB7C2)
+
+* [Tiny Plants](https://www.lego.com/en-gb/product/tiny-plants-10329)
+
+* [Succulents](https://www.lego.com/en-gb/product/succulents-10309)
+
+
+<p style="text-align:right" markown="1">
+  <a href="#index">...back to top</a>
+  &nbsp;
+</p>
+
+
+
+<a name="barbeque"></a>
+#### Barbeque and Grilling
+
+* [ThermoPro TempSpike 150M Wireless Meat Thermomete](https://www.amazon.co.uk/dp/B0BV21MJW4)
+
+
+
+<p style="text-align:right" markown="1">
+  <a href="#index">...back to top</a>
+  &nbsp;
+</p>
 
 
 <a name="coffee"></a>
 #### Coffee & Tea
-
+* [Le Creuset Stoneware Cafetière French Press](https://www.amazon.co.uk/dp/B01NAKTGV6?psc=1)
 
 
 <p style="text-align:right" markown="1">
@@ -247,15 +235,11 @@ _(please consult Elizabeth, or myself about this)_
 
 * [Crystal Cut Glencairn Glass](https://glencairn.co.uk/product/cut-glencairn-glass/)
 
-* [Blue Glencairn Glass](https://glencairn.co.uk/product/blue-glencairn-glass/)	
+* [Glencairn EdingBurgh Tumbler](https://glencairn.co.uk/product/edinburgh-whisky-tumbler/)
 
-* [Green Glencairn Glass](https://glencairn.co.uk/product/green-glencairn-glass/)
+* [Cut Glencairn Mixer](https://glencairn.co.uk/product/cut-glencairn-mixer/)
 
-* [Red Glencairn Glass](https://glencairn.co.uk/product/red-glencairn-glas)
-
-* [Wooden Ale Tankard](https://www.etsy.com/uk/listing/644759659/natural-wooden-mug-beer-tankard-brown)
-
-
+* [Glencairn Copita Tasting Glass](https://glencairn.co.uk/product/glencairn-copita-with-tasting-cap/)
 	
 <p style="text-align:right" markown="1">
   <a href="#index">...back to top</a>
@@ -263,4 +247,30 @@ _(please consult Elizabeth, or myself about this)_
 </p>
 
 
-&nbsp;<br />
+<a name="misc"></a>
+#### Miscellaneous
+
+* [ Funko Pop! Games: Ultra Marines Intercessor](https://www.amazon.co.uk/dp/B07KPSJTV2)
+
+* [Funko POP Assassin's Creed : Ezio](https://www.amazon.co.uk/dp/B00EWJ47IQ/)
+
+* [Funko POP Assassin's Creed : Altair](https://www.amazon.co.uk/d/B00EWJ47OA/)
+
+* [Funko Pop! Games: Dishonored 2 - Corvo Vinyl Figure](https://www.amazon.co.uk/dp/B01LEJCV0M)
+
+* [Funko Pop! Games: Witcher - Geralt of Rivia](https://www.amazon.co.uk/FUNKO-POP-GAMES-Witcher-Geralt/dp/B01LEYKMFS)
+
+* [Funko Pop! Games: Skyrim - Dovahkiin](https://www.amazon.co.uk/Skyrim-FUNKO-POP-GAMES-Dovahkiin/dp/B00VF20BKG)
+
+* [Funko POP! Vinyl Scrubs: Dr Cox](https://www.amazon.co.uk/dp/B07HB7B91B)
+
+* [ Funko Pop! Television: Bob Ross!](https://www.amazon.co.uk//dp/B071X7HZBN)
+
+
+* [Toothless!](https://www.amazon.co.uk/dp/B00KGQY0MW)
+
+
+<p style="text-align:right" markown="1">
+  <a href="#index">...back to top</a>
+  &nbsp;
+</p>
