@@ -61,8 +61,6 @@ _(please consult Elizabeth, or myself about this)_
 
 * [Warhammer 40,000 - CODEX: Space Marines (10th Edition)](https://www.amazon.co.uk//dp/1804572381)
 
-* [Pitt Cue Co. - The Cookbook](https://www.amazon.co.uk/dp/1845337565)
-
 
 <p style="text-align:right" markown="1">
   <a href="#index">...back to top</a>
@@ -88,19 +86,25 @@ _(please consult Elizabeth, or myself about this)_
 <a name="warhammer"></a>
 #### Warhammer 40,000
 
-* [Black Templars Castellan](*https://www.warhammer.com/en-GB/shop/black-templars-castellan-2021)
+* [Black Templars Castellan](https://www.warhammer.com/en-GB/shop/black-templars-castellan-2021)
 
 * [Black Templars: Upgrade and Transfers](https://www.warhammer.com/en-GB/shop/black-templars-upgrades-and-transfers-2021)
 
 * [Black Templars: Sword Brethern](https://www.warhammer.com/en-GB/shop/black-templars-sword-brethren-2021)
 
-* [Black Templars: Primaris Crusader Squad](https://www.warhammer.com/en-GB/shop/ black-templars-primaris-crusader-squad-2021)
+* [Black Templars: Primaris Crusader Squad](https://www.warhammer.com/en-GB/shop/black-templars-primaris-crusader-squad-2021)
 
 * [Black Templars: Emperor's Champion](https://www.warhammer.com/en-GB/shop/black-templars-emperors-champion-2021)
 
 * [High Marshall Hellbrecht](https://www.warhammer.com/en-GB/shop/black-templars-high-marshal-helbrecht-2021)
 
 * [Chaplain Grimaldus & Retinue](https://www.warhammer.com/en-GB/shop/black-templars-grimaldus-and-retinue-2021)
+
+* [Primaris Repulsor Executionor](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Repulsor-Executioner-2020)
+
+* [Redemptor Dreadnought](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Redemptor-Dreadnought-2020)
+
+* [Bladeguard Veterans](https://www.warhammer.com/en-GB/shop/Space-Marines-Bladeguard-Veterans-2020)
 
 * [Kill Team: Starter set](https://www.warhammer.com/en-GB/shop/kill-team-starter-set-2024-eng)
 
@@ -112,6 +116,7 @@ _(please consult Elizabeth, or myself about this)_
 
   * [Warhammer 40,000 - Kill Team: Core Book](https://www.warhammer.com/en-GB/shop/kill-team-core-book-2024-eng)
 
+* 
 
   * [Kill Team: Phobos Strike Team](https://www.warhammer.com/en-GB/shop/kill-team-phobos-strike-team-2024)
 
@@ -133,10 +138,6 @@ _(please consult Elizabeth, or myself about this)_
 #### Arts and Crafts related
 
 * [Tamiya 300074111 Handsaw with Handle ](https://www.amazon.co.uk/dp/B00CTC7I34)
-
-* [Tamiya 74040950 Modelling Knife](https://www.amazon.co.uk/dp/B01LZBRKSA)
-
-* [TAMIYA TAM74104 300074104 Basic File Handle Plastic/RC 3-Piece Set ](https://www.amazon.co.uk/dp/B00CE3L96K)
 
 * [Games Workshop Citadel Detail Cutters](https://www.warhammer.com/en-GB/shop/citadel-tools-cutters-2022) or [Tamiya 300074123 Diagonal Pointed Plastic](https://www.amazon.co.uk/dp/B010PG73J4)
 
@@ -172,7 +173,6 @@ _(please consult Elizabeth, or myself about this)_
 
   * ***SPARY / PRIMERS***
   
-      * [White Scar](https://www.warhammer.com/en-GB/shop/white-scar-spray-paint-2022-row)
       * [Wraithbone](https://www.warhammer.com/en-GB/shop/Wraithbone-Spray-UK-ROW-2020)
 
 
@@ -190,10 +190,6 @@ _(please consult Elizabeth, or myself about this)_
 
 * [R2-D2™](https://www.lego.com/en-gb/product/r2-d2-75379)
 
-* [BD-1™](https://elementgames.co.uk/wargaming-toys-and-merch/lego/star-wars/lego-bd-1)
-
-* [Remote Control Light Kit for Lego Notre-Dame de Paris 21061](https://www.amazon.co.uk/dp/B0D5QMB7C2)
-
 * [Tiny Plants](https://www.lego.com/en-gb/product/tiny-plants-10329)
 
 * [Succulents](https://www.lego.com/en-gb/product/succulents-10309)
@@ -208,8 +204,6 @@ _(please consult Elizabeth, or myself about this)_
 
 <a name="barbeque"></a>
 #### Barbeque and Grilling
-
-* [ThermoPro TempSpike 150M Wireless Meat Thermomete](https://www.amazon.co.uk/dp/B0BV21MJW4)
 
 
 
