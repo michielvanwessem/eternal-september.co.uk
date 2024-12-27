@@ -25,7 +25,7 @@ Or ... as [Elizabeth](http://historygeek.co.uk/) told me:
 [arts and crafts](#artscrafts),
 <br />
 [lego](#lego),
-[barbeque](barbeque)
+[barbeque](#barbeque)
 [coffee](#coffee),
 [glassware](#glass),
 [misc](#misc),
@@ -84,30 +84,62 @@ _(please consult Elizabeth, or myself about this)_
 
 
 <a name="warhammer"></a>
-#### Warhammer 40,000
+#### Warhammer 40,000 
 
-* [Black Templars Castellan](https://www.warhammer.com/en-GB/shop/black-templars-castellan-2021)
+  * ***Faction: Black Templars***
 
-* [Black Templars: Upgrade and Transfers](https://www.warhammer.com/en-GB/shop/black-templars-upgrades-and-transfers-2021)
+      * [Black Templars Castellan](https://www.warhammer.com/en-GB/shop/black-templars-castellan-2021)
 
-* [Black Templars: Sword Brethern](https://www.warhammer.com/en-GB/shop/black-templars-sword-brethren-2021)
+      * [Black Templars: Upgrade and Transfers](https://www.warhammer.com/en-GB/shop/black-templars-upgrades-and-transfers-2021)
 
-* [Black Templars: Primaris Crusader Squad](https://www.warhammer.com/en-GB/shop/black-templars-primaris-crusader-squad-2021)
+      * [Black Templars: Sword Brethern](https://www.warhammer.com/en-GB/shop/black-templars-sword-brethren-2021)
 
-* [Black Templars: Emperor's Champion](https://www.warhammer.com/en-GB/shop/black-templars-emperors-champion-2021)
+      * [Black Templars: Primaris Crusader Squad](https://www.warhammer.com/en-GB/shop/black-templars-primaris-crusader-squad-2021)
 
-* [High Marshall Hellbrecht](https://www.warhammer.com/en-GB/shop/black-templars-high-marshal-helbrecht-2021)
+      * [Black Templars: Emperor's Champion](https://www.warhammer.com/en-GB/shop/black-templars-emperors-champion-2021)
 
-* [Chaplain Grimaldus & Retinue](https://www.warhammer.com/en-GB/shop/black-templars-grimaldus-and-retinue-2021)
+      * [High Marshall Hellbrecht](https://www.warhammer.com/en-GB/shop/black-templars-high-marshal-helbrecht-2021)
 
-* [Primaris Repulsor Executionor](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Repulsor-Executioner-2020)
+      * [Chaplain Grimaldus & Retinue](https://www.warhammer.com/en-GB/shop/black-templars-grimaldus-and-retinue-2021)
 
-* [Redemptor Dreadnought](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Redemptor-Dreadnought-2020)
+      * [Primaris Repulsor Executionor](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Repulsor-Executioner-2020)
 
-* [Bladeguard Veterans](https://www.warhammer.com/en-GB/shop/Space-Marines-Bladeguard-Veterans-2020)
+      * [Redemptor Dreadnought](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Redemptor-Dreadnought-2020)
 
-* [Kill Team: Starter set](https://www.warhammer.com/en-GB/shop/kill-team-starter-set-2024-eng)
+      * [Bladeguard Veterans](https://www.warhammer.com/en-GB/shop/Space-Marines-Bladeguard-Veterans-2020)
 
+      * [Kill Team: Starter set](https://www.warhammer.com/en-GB/shop/kill-team-starter-set-2024-eng)
+        
+
+  * ***Faction: Blood Angels***
+
+      * [Blood Angels: Combat Patrol](https://www.warhammer.com/en-GB/shop/combat-patrol-blood-angels-2024)
+      
+      * [Commander Dante](https://www.warhammer.com/en-GB/shop/blood-angels-commander-dante-2023)
+      
+      * [Blood Angels Captain](https://www.warhammer.com/en-GB/shop/blood-angels-captain-2024)
+      
+      * [Mephiston Lord of Deqath](https://www.warhammer.com/en-GB/shop/Mephiston-Lord-of-Death-2020)
+      
+      * [Blood Angels with Jumppack](https://www.warhammer.com/en-GB/shop/Blood-Angels-Chaplain-with-Jump-Pack-2020)
+      
+      * [Primaris Techmarine](https://www.warhammer.com/en-GB/shop/Primaris-Techmarine-2020)
+      
+      * [Terminator Assault Squad](https://www.warhammer.com/en-GB/shop/Blood-Angels-Terminator-Assault-Squad)
+      
+      * [LeMArtes](https://www.warhammer.com/en-GB/shop/blood-angels-lemartes-2024)
+      
+      * [AStorath The Grim](https://www.warhammer.com/en-GB/shop/blood-angels-astorath-the-grim-2024)
+      
+      * [Baal Predator](https://www.warhammer.com/en-GB/shop/Blood-Angels-Baal-Predator)
+      
+      * [Devestator Squad](https://www.warhammer.com/en-GB/shop/Space-Marine-Blood-Angels-Devastator-Squad-2020)
+      
+      * [Upgrade Spruces and Transfers](https://www.warhammer.com/en-GB/shop/blood-angels-upgrades-and-transfers-2024)
+    
+      * [Sanguinary Guard](https://www.warhammer.com/en-GB/shop/blood-angels-sanguinary-guard-2024)
+
+	
 {% comment %}
 
 <p></p>
@@ -115,8 +147,6 @@ _(please consult Elizabeth, or myself about this)_
 * ***Kill Team Sets*** 
 
   * [Warhammer 40,000 - Kill Team: Core Book](https://www.warhammer.com/en-GB/shop/kill-team-core-book-2024-eng)
-
-* 
 
   * [Kill Team: Phobos Strike Team](https://www.warhammer.com/en-GB/shop/kill-team-phobos-strike-team-2024)
 
@@ -136,6 +166,8 @@ _(please consult Elizabeth, or myself about this)_
 
 <a name="artscrafts"></a>
 #### Arts and Crafts related
+
+* [Army Painter Wet Palette](https://elementgames.co.uk/orks/the-army-painter/wet-palette)
 
 * [Tamiya 300074111 Handsaw with Handle ](https://www.amazon.co.uk/dp/B00CTC7I34)
 
@@ -227,8 +259,6 @@ _(please consult Elizabeth, or myself about this)_
 <a name="glass"></a> 
 #### Glassware
 
-* [Crystal Cut Glencairn Glass](https://glencairn.co.uk/product/cut-glencairn-glass/)
-
 * [Glencairn EdingBurgh Tumbler](https://glencairn.co.uk/product/edinburgh-whisky-tumbler/)
 
 * [Cut Glencairn Mixer](https://glencairn.co.uk/product/cut-glencairn-mixer/)
@@ -243,26 +273,6 @@ _(please consult Elizabeth, or myself about this)_
 
 <a name="misc"></a>
 #### Miscellaneous
-
-* [ Funko Pop! Games: Ultra Marines Intercessor](https://www.amazon.co.uk/dp/B07KPSJTV2)
-
-* [Funko POP Assassin's Creed : Ezio](https://www.amazon.co.uk/dp/B00EWJ47IQ/)
-
-* [Funko POP Assassin's Creed : Altair](https://www.amazon.co.uk/d/B00EWJ47OA/)
-
-* [Funko Pop! Games: Dishonored 2 - Corvo Vinyl Figure](https://www.amazon.co.uk/dp/B01LEJCV0M)
-
-* [Funko Pop! Games: Witcher - Geralt of Rivia](https://www.amazon.co.uk/FUNKO-POP-GAMES-Witcher-Geralt/dp/B01LEYKMFS)
-
-* [Funko Pop! Games: Skyrim - Dovahkiin](https://www.amazon.co.uk/Skyrim-FUNKO-POP-GAMES-Dovahkiin/dp/B00VF20BKG)
-
-* [Funko POP! Vinyl Scrubs: Dr Cox](https://www.amazon.co.uk/dp/B07HB7B91B)
-
-* [ Funko Pop! Television: Bob Ross!](https://www.amazon.co.uk//dp/B071X7HZBN)
-
-
-* [Toothless!](https://www.amazon.co.uk/dp/B00KGQY0MW)
-
 
 <p style="text-align:right" markown="1">
   <a href="#index">...back to top</a>
