@@ -178,7 +178,7 @@ _(please consult Elizabeth, or myself about this)_
 
 * [Tamiya 300074111 Handsaw with Handle ](https://www.amazon.co.uk/dp/B00CTC7I34)
 
-* [Games Workshop Citadel Detail Cutters](https://www.warhammer.com/en-GB/shop/citadel-tools-cutters-2022) or [Tamiya 300074123 Diagonal Pointed Plastic](https://www.amazon.co.uk/dp/B010PG73J4)
+* [Games Workshop Citadel Detail Cutters](https://www.warhammer.com/en-GB/shop/citadel-tools-cutters-2022) or [Tamiya 300074123 Diagonal Pointed Plastic](https://www.amazon.co.uk/dp/B010PG73J4) or [Tamiya Sharp Pointed Side Cutter For Plastic - Slim Jaw](https://www.amazon.co.uk/Tamiya-300074123-Diagonal-Pointed-Plastic/dp/B010PG73J4)
 
 * [Games Workshop Citadel Assembly Handle](https://www.amazon.co.uk/dp/B07K2K82JN)
 
@@ -238,6 +238,16 @@ _(please consult Elizabeth, or myself about this)_
 
 <a name="barbeque"></a>
 #### Barbeque and Grilling
+
+*[Weber Charcoal Heat Controller](https://www.wowbbq.co.uk/weber-charcoal-heat-controller)
+
+*[Weber Charcoal Measuring Cup](https://www.wowbbq.co.uk/weber-charcoal-measuring-cup)
+
+*[Weber Warming Rack](https://www.wowbbq.co.uk/catalog/product/view/id/912/s/weber-warming-rack-8417/)
+
+*[Weber Smoker Box](https://www.wowbbq.co.uk/catalog/product/view/id/894/s/weber-universal-smoker-box-7576/)
+
+*[Weber Grate Insert Lifter](https://www.wowbbq.co.uk/catalog/product/view/id/862/s/weber-grate-insert-lifter-gbs-8844/)
 
 
 
