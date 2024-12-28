@@ -146,10 +146,14 @@ _(please consult Elizabeth, or myself about this)_
 
   * ***Kill Team Sets***
 
+      Preferably buy book and starter set together:
+    
       * [Kill Team: Starter set](https://www.warhammer.com/en-GB/shop/kill-team-starter-set-2024-eng)****
 
       * [Warhammer 40,000 - Kill Team: Core Book](https://www.warhammer.com/en-GB/shop/kill-team-core-book-2024-eng)
-
+        
+      Don't buy these without knowing whether I have the starter set:
+    
       * [Kill Team: Phobos Strike Team](https://www.warhammer.com/en-GB/shop/kill-team-phobos-strike-team-2024)
 
       * [Kill Team: Phobos Strike Team - Datacards](https://www.warhammer.com/en-GB/shop/kill-team-datacards-phobos-strike-team-2024-eng)
