@@ -86,6 +86,18 @@ _(please consult Elizabeth, or myself about this)_
 <a name="warhammer"></a>
 #### Warhammer 40,000 
 
+      
+  * ***Multi-Faction builds ***
+
+      * [Bladeguard Veterans](https://www.warhammer.com/en-GB/shop/Space-Marines-Bladeguard-Veterans-2020)
+
+      * [Primaris Repulsor Executionor](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Repulsor-Executioner-2020)
+
+      * [Redemptor Dreadnought](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Redemptor-Dreadnought-2020)
+        
+      * [Gladiator Lancer](https://www.warhammer.com/en-GB/shop/Gladiator-Lancer-2020)
+      
+    
   * ***Faction: Black Templars***
 
       * [Black Templars Castellan](https://www.warhammer.com/en-GB/shop/black-templars-castellan-2021)
@@ -102,14 +114,6 @@ _(please consult Elizabeth, or myself about this)_
 
       * [Chaplain Grimaldus & Retinue](https://www.warhammer.com/en-GB/shop/black-templars-grimaldus-and-retinue-2021)
 
-      * [Primaris Repulsor Executionor](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Repulsor-Executioner-2020)
-
-      * [Redemptor Dreadnought](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Redemptor-Dreadnought-2020)
-
-      * [Bladeguard Veterans](https://www.warhammer.com/en-GB/shop/Space-Marines-Bladeguard-Veterans-2020)
-
-      * [Kill Team: Starter set](https://www.warhammer.com/en-GB/shop/kill-team-starter-set-2024-eng)
-        
 
   * ***Faction: Blood Angels***
 
@@ -139,24 +143,23 @@ _(please consult Elizabeth, or myself about this)_
     
       * [Sanguinary Guard](https://www.warhammer.com/en-GB/shop/blood-angels-sanguinary-guard-2024)
 
-	
-{% comment %}
+
+  * ***Kill Team Sets***
+
+      * [Kill Team: Starter set](https://www.warhammer.com/en-GB/shop/kill-team-starter-set-2024-eng)****
+
+      * [Warhammer 40,000 - Kill Team: Core Book](https://www.warhammer.com/en-GB/shop/kill-team-core-book-2024-eng)
+
+      * [Kill Team: Phobos Strike Team](https://www.warhammer.com/en-GB/shop/kill-team-phobos-strike-team-2024)
+
+      * [Kill Team: Phobos Strike Team - Datacards](https://www.warhammer.com/en-GB/shop/kill-team-datacards-phobos-strike-team-2024-eng)
+
+      * [Kill Team: Scout Squad](https://www.warhammer.com/en-GB/shop/kill-team-scout-squad-2024)
+
+      * [Kill Team: Scout Squad - Datacards](https://www.warhammer.com/en-GB/shop/kill-team-datacards-scout-squad-2024-eng)
+        
 
 <p></p>
-
-* ***Kill Team Sets*** 
-
-  * [Warhammer 40,000 - Kill Team: Core Book](https://www.warhammer.com/en-GB/shop/kill-team-core-book-2024-eng)
-
-  * [Kill Team: Phobos Strike Team](https://www.warhammer.com/en-GB/shop/kill-team-phobos-strike-team-2024)
-
-    * [Kill Team: Phobos Strike Team - Datacards](https://www.warhammer.com/en-GB/shop/kill-team-datacards-phobos-strike-team-2024-eng)
-
-  * [Kill Team: Scout Squad](https://www.warhammer.com/en-GB/shop/kill-team-scout-squad-2024)
-
-    * [Kill Team: Scout Squad - Datacards](https://www.warhammer.com/en-GB/shop/kill-team-datacards-scout-squad-2024-eng)
-{% endcomment %}
-    
 
 <p style="text-align:right" markown="1">
   <a href="#index">...back to top</a>
@@ -185,13 +188,8 @@ _(please consult Elizabeth, or myself about this)_
 
   * ***BASE PAINTS***
 
-      * [Averland Sunset](https://www.warhammer.com/en-GB/shop/Base-Averland-Sunset-2019)
-      * [Celestra Grey](https://www.warhammer.com/en-GB/shop/Base-Celestra-Grey-2019)
-      * [Steel Legion Drab](https://www.warhammer.com/en-GB/shop/Base-Steel-Legion-Drab-2019)
-      * [Wraithbone](https://www.warhammer.com/en-GB/shop/Base-Wraithbone-2019)
-      * [Zandri Dust](https://www.warhammer.com/en-GB/shop/Base-Zandri-Dust-2019)
-      * [White Scar](https://www.warhammer.com/en-GB/shop/Layer-White-Scar-2019)
-
+      * TBC
+   
   * ***SHADES***
 
       * [Seraphin Sepia](https://www.warhammer.com/en-GB/shop/shade-seraphim-sepia-18ml-2022)
