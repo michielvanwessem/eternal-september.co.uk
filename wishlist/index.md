@@ -241,16 +241,23 @@ _(please consult Elizabeth, or myself about this)_
 <a name="barbeque"></a>
 #### Barbeque and Grilling
 
-*[Weber Charcoal Heat Controller](https://www.wowbbq.co.uk/weber-charcoal-heat-controller)
+* [Weber Charcoal Heat Controller](https://www.wowbbq.co.uk/weber-charcoal-heat-controller)
 
-*[Weber Charcoal Measuring Cup](https://www.wowbbq.co.uk/weber-charcoal-measuring-cup)
+* [Weber Charcoal Measuring Cup](https://www.wowbbq.co.uk/weber-charcoal-measuring-cup)
 
-*[Weber Warming Rack](https://www.wowbbq.co.uk/catalog/product/view/id/912/s/weber-warming-rack-8417/)
+* [Weber Warming Rack](https://www.wowbbq.co.uk/catalog/product/view/id/912/s/weber-warming-rack-8417/)
 
-*[Weber Smoker Box](https://www.wowbbq.co.uk/catalog/product/view/id/894/s/weber-universal-smoker-box-7576/)
+* [Weber Smoker Box](https://www.wowbbq.co.uk/catalog/product/view/id/894/s/weber-universal-smoker-box-7576/)
 
-*[Weber Grate Insert Lifter](https://www.wowbbq.co.uk/catalog/product/view/id/862/s/weber-grate-insert-lifter-gbs-8844/)
+* [Weber Grate Insert Lifter](https://www.wowbbq.co.uk/catalog/product/view/id/862/s/weber-grate-insert-lifter-gbs-8844/)
 
+* [Weber Dutch Oven](https://www.wowbbq.co.uk/weber-dutch-oven-duo-8857)
+
+* [Weber Griddle](https://www.wowbbq.co.uk/catalog/product/view/id/961/s/weber-griddle-gbs-7421/)
+
+* [Slow n Sear roast pan](https://www.wowbbq.co.uk/slow-n-sear-roast-pan-porcelain)
+
+* [Slow n Sear Easyspin](https://www.wowbbq.co.uk/slow-n-sear-easyspin-57cm)
 
 
 <p style="text-align:right" markown="1">
