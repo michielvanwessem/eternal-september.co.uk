@@ -180,6 +180,8 @@ _(please consult Elizabeth, or myself about this)_
 
 * [Games Workshop Citadel Detail Cutters](https://www.warhammer.com/en-GB/shop/citadel-tools-cutters-2022) or [Tamiya 300074123 Diagonal Pointed Plastic](https://www.amazon.co.uk/dp/B010PG73J4) or [Tamiya Sharp Pointed Side Cutter For Plastic - Slim Jaw](https://www.amazon.co.uk/Tamiya-300074123-Diagonal-Pointed-Plastic/dp/B010PG73J4)
 
+* [Citadel Tools: Drill](https://www.warhammer.com/en-GB/shop/citadel-tools-drill-2022)
+
 * [Games Workshop Citadel Assembly Handle](https://www.amazon.co.uk/dp/B07K2K82JN)
 
 * [Plydolex Paint Rack Organizer with 65 Holes of 2 Sizes](https://www.amazon.co.uk/dp/B097TQHRL8)
