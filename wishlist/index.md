@@ -86,6 +86,10 @@ _(please consult Elizabeth, or myself about this)_
 <a name="warhammer"></a>
 #### Warhammer 40,000 
 
+  * ***Accessories ***
+
+      * [Black Templar Dice Set](https://elementgames.co.uk/games-workshop/warhammer-40k/space-marines/warhammer-40000-black-templars-dice)
+
       
   * ***Multi-Faction builds ***
 
@@ -152,16 +156,6 @@ _(please consult Elizabeth, or myself about this)_
 
       * [Warhammer 40,000 - Kill Team: Core Book](https://www.warhammer.com/en-GB/shop/kill-team-core-book-2024-eng)
         
-      Don't buy these without knowing whether I have the starter set:
-    
-      * [Kill Team: Phobos Strike Team](https://www.warhammer.com/en-GB/shop/kill-team-phobos-strike-team-2024)
-
-      * [Kill Team: Phobos Strike Team - Datacards](https://www.warhammer.com/en-GB/shop/kill-team-datacards-phobos-strike-team-2024-eng)
-
-      * [Kill Team: Scout Squad](https://www.warhammer.com/en-GB/shop/kill-team-scout-squad-2024)
-
-      * [Kill Team: Scout Squad - Datacards](https://www.warhammer.com/en-GB/shop/kill-team-datacards-scout-squad-2024-eng)
-        
 
 <p></p>
 
@@ -176,15 +170,15 @@ _(please consult Elizabeth, or myself about this)_
 
 * [Army Painter Wet Palette](https://elementgames.co.uk/orks/the-army-painter/wet-palette)
 
-* [Tamiya 300074111 Handsaw with Handle ](https://www.amazon.co.uk/dp/B00CTC7I34)
-
 * [Games Workshop Citadel Detail Cutters](https://www.warhammer.com/en-GB/shop/citadel-tools-cutters-2022) or [Tamiya 300074123 Diagonal Pointed Plastic](https://www.amazon.co.uk/dp/B010PG73J4) or [Tamiya Sharp Pointed Side Cutter For Plastic - Slim Jaw](https://www.amazon.co.uk/Tamiya-300074123-Diagonal-Pointed-Plastic/dp/B010PG73J4)
 
 * [Citadel Tools: Drill](https://www.warhammer.com/en-GB/shop/citadel-tools-drill-2022)
 
-* [Games Workshop Citadel Assembly Handle](https://www.amazon.co.uk/dp/B07K2K82JN)
-
 * [Plydolex Paint Rack Organizer with 65 Holes of 2 Sizes](https://www.amazon.co.uk/dp/B097TQHRL8)
+
+* [Citadel Old Style Knife](https://www.waylandgames.co.uk/citadel-tools-knife-99239999117)
+
+* [Feldherr MAXI bag](https://elementgames.co.uk/gaming-and-accessories/cases-and-bags/feldherr/feldherr-maxi-bag-for-citadel-tools-paint-pots-miniatures)
 
 * [Citadel Colour Spray Stick](https://www.warhammer.com/en-GB/shop/citadel-colour-spray-stick-2021)
 
