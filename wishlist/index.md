@@ -86,33 +86,52 @@ _(please consult Elizabeth, or myself about this)_
 <a name="warhammer"></a>
 #### Warhammer 40,000 
 
-      
-  * ***Multi-Faction builds ***
+  * ***Tabletop Gaming Accessories ***
+
+      * [Black Templar Dice Set](https://elementgames.co.uk/games-workshop/warhammer-40k/space-marines/warhammer-40000-black-templars-dice)
+
+      * [Templar Leather Dice Tray, Black/Silver, 6 inch](https://www.etsy.com/listing/1201586779/templar-leather-dice-tray)
+
+      * [Premium Templars Black Dice - White Inlay, rounded corners](https://www.etsy.com/uk/listing/1268879887/premium-templars-dice-white-inlay)
+
+      * [Premium Templars Red Dice - White Inlay, rounded corners](https://www.etsy.com/il-en/listing/1618946876/premium-red-templar-dice)
+
+      * [Premium Templars White Dice - Black Inlay, rounded corners](https://www.etsy.com/uk/listing/1155030452/premium-templars-dice)
+
+
+  * *** Multi-Faction builds ***
 
       * [Bladeguard Veterans](https://www.warhammer.com/en-GB/shop/Space-Marines-Bladeguard-Veterans-2020)
+        
+      * [Space Marine Primaris Hellblaster](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Hellblasters-2020)
 
       * [Primaris Repulsor Executionor](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Repulsor-Executioner-2020)
+
+      * [Space Marine Land Raider](https://elementgames.co.uk/wargames-and-miniatures/sci-fi-miniatures-games/warhammer-40k/starting-an-army/space-wolves/space-marine-land-raider)
 
       * [Redemptor Dreadnought](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Redemptor-Dreadnought-2020)
         
       * [Gladiator Lancer](https://www.warhammer.com/en-GB/shop/Gladiator-Lancer-2020)
+
+      * [Space Marines Primaris Intercessors](https://elementgames.co.uk/wargames-and-miniatures/sci-fi-miniatures-games/warhammer-40k/warhammer-40000-kill-team/space-marines-primaris-intercessors)
       
-    
+      * [Space Marines Assault Intercessors](https://elementgames.co.uk/wargames-and-miniatures/sci-fi-miniatures-games/warhammer-40k/starting-an-army/space-marines/space-marines-assault-intercessors)
+
+      * [Space Marines Primaris Infiltrators](https://elementgames.co.uk/wargames-and-miniatures/sci-fi-miniatures-games/warhammer-40k/starting-an-army/space-marines/space-marines-primaris-infiltrators)
+
+      * [Primaris Techmarine](https://elementgames.co.uk/games-workshop/warhammer-40k/space-marines/primaris-techmarine) (up to three)
+
   * ***Faction: Black Templars***
-
-      * [Black Templars Castellan](https://www.warhammer.com/en-GB/shop/black-templars-castellan-2021)
-
-      * [Black Templars: Upgrade and Transfers](https://www.warhammer.com/en-GB/shop/black-templars-upgrades-and-transfers-2021)
-
-      * [Black Templars: Sword Brethern](https://www.warhammer.com/en-GB/shop/black-templars-sword-brethren-2021)
-
-      * [Black Templars: Primaris Crusader Squad](https://www.warhammer.com/en-GB/shop/black-templars-primaris-crusader-squad-2021)
-
-      * [Black Templars: Emperor's Champion](https://www.warhammer.com/en-GB/shop/black-templars-emperors-champion-2021)
 
       * [High Marshall Hellbrecht](https://www.warhammer.com/en-GB/shop/black-templars-high-marshal-helbrecht-2021)
 
-      * [Chaplain Grimaldus & Retinue](https://www.warhammer.com/en-GB/shop/black-templars-grimaldus-and-retinue-2021)
+      * [Black Templars Castellan](https://www.warhammer.com/en-GB/shop/black-templars-castellan-2021)
+
+      * [Black Templars: Emperor's Champion](https://www.warhammer.com/en-GB/shop/black-templars-emperors-champion-2021)
+
+      * [Black Templars: Primaris Crusader Squad](https://www.warhammer.com/en-GB/shop/black-templars-primaris-crusader-squad-2021)
+
+      * [Black Templars: Upgrade and Transfers](https://www.warhammer.com/en-GB/shop/black-templars-upgrades-and-transfers-2021)
 
 
   * ***Faction: Blood Angels***
@@ -144,24 +163,33 @@ _(please consult Elizabeth, or myself about this)_
       * [Sanguinary Guard](https://www.warhammer.com/en-GB/shop/blood-angels-sanguinary-guard-2024)
 
 
+  * ***Faction: Space Wolves***
+
+      * [Space Wolves: Combat Patrol](https://elementgames.co.uk/wargames-and-miniatures/sci-fi-miniatures-games/warhammer-40k/starting-an-army/space-wolves/combat-patrol-space-wolves)
+
+
   * ***Kill Team Sets***
 
-      Preferably buy book and starter set together:
+      **Preferably buy book and starter set together:**
     
       * [Kill Team: Starter set](https://www.warhammer.com/en-GB/shop/kill-team-starter-set-2024-eng)****
 
       * [Warhammer 40,000 - Kill Team: Core Book](https://www.warhammer.com/en-GB/shop/kill-team-core-book-2024-eng)
-        
-      Don't buy these without knowing whether I have the starter set:
-    
-      * [Kill Team: Phobos Strike Team](https://www.warhammer.com/en-GB/shop/kill-team-phobos-strike-team-2024)
 
-      * [Kill Team: Phobos Strike Team - Datacards](https://www.warhammer.com/en-GB/shop/kill-team-datacards-phobos-strike-team-2024-eng)
 
-      * [Kill Team: Scout Squad](https://www.warhammer.com/en-GB/shop/kill-team-scout-squad-2024)
+      * Additional Units to the base game above
 
-      * [Kill Team: Scout Squad - Datacards](https://www.warhammer.com/en-GB/shop/kill-team-datacards-scout-squad-2024-eng)
-        
+        * [Kill Team: Inquisitorial Agents ](https://elementgames.co.uk/wargames-and-miniatures/sci-fi-miniatures-games/warhammer-40k/warhammer-40000-kill-team/kill-team-inquisitorial-agents)
+
+        * [Kill Team: Kommandos](https://elementgames.co.uk/wargames-and-miniatures/sci-fi-miniatures-games/warhammer-40k/warhammer-40000-kill-team/kill-team-kommandos-2024)
+
+        * [Kill Team: Novitiates  ](https://elementgames.co.uk/wargames-and-miniatures/sci-fi-miniatures-games/warhammer-40k/warhammer-40000-kill-team/kill-team-novitiates2)
+
+        * [Kill Team: Phobos Strike Team](https://elementgames.co.uk/wargames-and-miniatures/sci-fi-miniatures-games/warhammer-40k/warhammer-40000-kill-team/kill-team-phobos-strike-team)
+
+        * [Kill Team: Scout Squad](https://elementgames.co.uk/wargames-and-miniatures/sci-fi-miniatures-games/warhammer-40k/warhammer-40000-kill-team/kill-team-scout-squad)
+
+        * [Militarum Tempestus Scions](https://elementgames.co.uk/wargames-and-miniatures/sci-fi-miniatures-games/warhammer-40k/warhammer-40000-kill-team/militarum-tempestus-scions)
 
 <p></p>
 
@@ -174,42 +202,70 @@ _(please consult Elizabeth, or myself about this)_
 <a name="artscrafts"></a>
 #### Arts and Crafts related
 
-* [Army Painter Wet Palette](https://elementgames.co.uk/orks/the-army-painter/wet-palette)
+* [Feldherr MAXI bag](https://elementgames.co.uk/gaming-and-accessories/cases-and-bags/feldherr/feldherr-maxi-bag-for-citadel-tools-paint-pots-miniatures)
 
-* [Tamiya 300074111 Handsaw with Handle ](https://www.amazon.co.uk/dp/B00CTC7I34)
+* [Game Envy Hobby Holder](https://elementgames.co.uk/fantasy-miniatures-games/reaper-bones/accessories/game-envy-hobby-holder) 
 
-* [Games Workshop Citadel Detail Cutters](https://www.warhammer.com/en-GB/shop/citadel-tools-cutters-2022) or [Tamiya 300074123 Diagonal Pointed Plastic](https://www.amazon.co.uk/dp/B010PG73J4) or [Tamiya Sharp Pointed Side Cutter For Plastic - Slim Jaw](https://www.amazon.co.uk/Tamiya-300074123-Diagonal-Pointed-Plastic/dp/B010PG73J4)
+* [Painter V2 Reusable membranes](https://www.redgrasscreative.com/product/15x-painter-v2-reusable-membranes-for-everlasting-wet-palette/)
 
-* [Citadel Tools: Drill](https://www.warhammer.com/en-GB/shop/citadel-tools-drill-2022)
+* [Painter V2 Hydration foam](https://www.redgrasscreative.com/product/1-x-extra-foam-for-painter-v2-3mm/)
 
-* [Games Workshop Citadel Assembly Handle](https://www.amazon.co.uk/dp/B07K2K82JN)
+#### Scenery and Terrain Building & Enhancements
 
-* [Plydolex Paint Rack Organizer with 65 Holes of 2 Sizes](https://www.amazon.co.uk/dp/B097TQHRL8)
-
-* [Citadel Colour Spray Stick](https://www.warhammer.com/en-GB/shop/citadel-colour-spray-stick-2021)
+* [Battlefiled Basing Set](https://www-.elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/battlefields-basing-set)
 
 <p></p>
 
-* **Paints and Primers**
+* **Citatel Paints, Layers, Shades, Technical, and Primers**
 
   * ***BASE PAINTS***
+      * [Retributor Armour](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/citadel-base-retributor-armour)
+      * [Abandon Black](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/citadel-base-abaddon-black)
+      * [Corvus Black](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/base-corvus-black-12ml)
+      * [Wraithbone](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/base-wraithbone-12ml)  
+      * [Leadbelcher](https://elementgames.co.uk/p3-paints/citadel-base/citadel-base-leadbelcher)
 
-      * TBC
-   
+  * ***LAYERS***
+      * [Phalanx Yellow](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/layer-phalanx-yellow-12ml)
+      * [Yriel Yellow](https://elementgames.co.uk/games-workshop/citadel-games-workshop-paints/citadel-layer-1/citadel-layer-yriel-yellow)
+      * [Ulthuan Grey](https://elementgames.co.uk/p3-paints/citadel-layer-1/citadel-layer-ulthuan-grey)
+      * [Doombull Brown](https://elementgames.co.uk/games-workshop/citadel-games-workshop-paints/citadel-layer-1/citadel-layer-doombull-brown)
+
+
+  * *** CONTRASTS***
+      * [Talassar Blue](https://elementgames.co.uk/games-workshop/citadel-games-workshop-paints/citadel-contrast/contrast-talassar-blue-18ml)
+
   * ***SHADES***
 
-      * [Seraphin Sepia](https://www.warhammer.com/en-GB/shop/shade-seraphim-sepia-18ml-2022)
-      * [Agrax Earthshade](https://www.warhammer.com/en-GB/shop/shade-agrax-earthshade-18ml-2022)
-      * [Casandora Yellow](https://www.warhammer.com/en-GB/shop/shade-agrax-earthshade-18ml-2022)
-      * [Reikland Fleshshade](https://www.warhammer.com/en-GB/shop/shade-reikland-fleshshade-18ml-2022)
+      * N/A
 
   * ***TECHNICAL***
+     
+      * [Techncial Lahmian Medium](https://www.warhammer.com/en-GB/shop/Technical-Lahmian-Medium-2019)
+      * [Techncial Contrast Medium](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/technical-contrast-medium-24ml)
+      * [Technical Ardcoat](https://www.warhammer.com/en-GB/shop/Technical-Ardcoat-2019)
+      * [Technical Mordant Earth](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/technical-mordant-earth-24ml)
 
-      * [Stirland Mud](https://www.warhammer.com/en-GB/shop/Technical-Stirland-Mud-2019)
+  * ***DRY***
+      * [Ryza Rust](https://www.waylandgames.co.uk/citadel-dry-ryza-rust-99189952018)
+
 
   * ***SPARY / PRIMERS***
   
+      * [Chaos Black](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/chaos-black-primer-spray)
       * [Wraithbone](https://www.warhammer.com/en-GB/shop/Wraithbone-Spray-UK-ROW-2020)
+      * [Mephiston Red](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/mephiston-red-spray2)
+
+
+* ***Vallejo Paints***
+    * [AV Vallejo Fluorescent Red](https://elementgames.co.uk/vallejo-paints/av-vallejo-game-color-18ml-fluo-fluorescent-red)
+
+* ***AK Paints***
+
+    * [AK Black](https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/ak-interactive/ak-acrylic-black-17ml)
+    * [AK Fluorescent Orange](https://elementgames.co.uk/ak-acrylic-fluorescent-orange-17ml)
+    * [AK Medium Orange](https://elementgames.co.uk/paints-hobby-and-scenery-by-manufacturer/ak-interactive/ak-acrylic-medium-orange-17ml)
+    * [AK Ultra Matt Finish](https://elementgames.co.uk/paints-hobby-and-scenery-by-manufacturer/ak-interactive/primers/ultra-matte-finish-top-quality-varnish-60-ml)
 
 
 <p style="text-align:right" markown="1">
