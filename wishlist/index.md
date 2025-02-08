@@ -116,8 +116,6 @@ _(please consult Elizabeth, or myself about this)_
 
       * [High Marshall Hellbrecht](https://www.warhammer.com/en-GB/shop/black-templars-high-marshal-helbrecht-2021)
 
-      * [Chaplain Grimaldus & Retinue](https://www.warhammer.com/en-GB/shop/black-templars-grimaldus-and-retinue-2021)
-
 
   * ***Faction: Blood Angels***
 
@@ -168,8 +166,6 @@ _(please consult Elizabeth, or myself about this)_
 <a name="artscrafts"></a>
 #### Arts and Crafts related
 
-* [Army Painter Wet Palette](https://elementgames.co.uk/orks/the-army-painter/wet-palette)
-
 * [Games Workshop Citadel Detail Cutters](https://www.warhammer.com/en-GB/shop/citadel-tools-cutters-2022) or [Tamiya 300074123 Diagonal Pointed Plastic](https://www.amazon.co.uk/dp/B010PG73J4) or [Tamiya Sharp Pointed Side Cutter For Plastic - Slim Jaw](https://www.amazon.co.uk/Tamiya-300074123-Diagonal-Pointed-Plastic/dp/B010PG73J4)
 
 * [Citadel Tools: Drill](https://www.warhammer.com/en-GB/shop/citadel-tools-drill-2022)
@@ -179,8 +175,6 @@ _(please consult Elizabeth, or myself about this)_
 * [Citadel Old Style Knife](https://www.waylandgames.co.uk/citadel-tools-knife-99239999117)
 
 * [Feldherr MAXI bag](https://elementgames.co.uk/gaming-and-accessories/cases-and-bags/feldherr/feldherr-maxi-bag-for-citadel-tools-paint-pots-miniatures)
-
-* [Citadel Colour Spray Stick](https://www.warhammer.com/en-GB/shop/citadel-colour-spray-stick-2021)
 
 <p></p>
 
