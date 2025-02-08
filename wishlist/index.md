@@ -94,6 +94,8 @@ _(please consult Elizabeth, or myself about this)_
   * ***Multi-Faction builds ***
 
       * [Bladeguard Veterans](https://www.warhammer.com/en-GB/shop/Space-Marines-Bladeguard-Veterans-2020)
+        
+      * [Space Marine Primaris Hellblaster](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Hellblasters-2020)
 
       * [Primaris Repulsor Executionor](https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Repulsor-Executioner-2020)
 
