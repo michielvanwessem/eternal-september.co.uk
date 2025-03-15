@@ -90,7 +90,15 @@ _(please consult Elizabeth, or myself about this)_
 
       * [Black Templar Dice Set](https://elementgames.co.uk/games-workshop/warhammer-40k/space-marines/warhammer-40000-black-templars-dice)
 
-      
+      * [Templar Leather Dice Tray, Black/Silver, 6 inch](https://www.etsy.com/listing/1201586779/templar-leather-dice-tray)
+
+      * [Premium Templars Black Dice - White Inlay, rounded corners](https://www.etsy.com/uk/listing/1268879887/premium-templars-dice-white-inlay)
+
+      * [Premium Templars Red Dice - White Inlay, rounded corners](https://www.etsy.com/il-en/listing/1618946876/premium-red-templar-dice)
+
+      * [Premium Templars White Dice - Black Inlay, rounded corners](https://www.etsy.com/uk/listing/1155030452/premium-templars-dice)
+
+
   * ***Multi-Faction builds ***
 
       * [Bladeguard Veterans](https://www.warhammer.com/en-GB/shop/Space-Marines-Bladeguard-Veterans-2020)
@@ -168,23 +176,26 @@ _(please consult Elizabeth, or myself about this)_
 <a name="artscrafts"></a>
 #### Arts and Crafts related
 
-* [Games Workshop Citadel Detail Cutters](https://www.warhammer.com/en-GB/shop/citadel-tools-cutters-2022) or [Tamiya 300074123 Diagonal Pointed Plastic](https://www.amazon.co.uk/dp/B010PG73J4) or [Tamiya Sharp Pointed Side Cutter For Plastic - Slim Jaw](https://www.amazon.co.uk/Tamiya-300074123-Diagonal-Pointed-Plastic/dp/B010PG73J4)
-
-* [Citadel Tools: Drill](https://www.warhammer.com/en-GB/shop/citadel-tools-drill-2022)
+* [Games Workshop Citadel Detail Cutters](https://www.warhammer.com/en-GB/shop/citadel-tools-cutters-2022) or [Tamiya 300074123 Diagonal Pointed Plastic](https://www.amazon.co.uk/dp/B010PG73J4) or [Tamiya Sharp Pointed Side Cutter For Plastic - Slim Jaw](https://www.amazon.co.uk/Tamiya-300074123-Diagonal-Pointed-Plastic/dp/B010PG73J4)  
 
 * [Plydolex Paint Rack Organizer with 65 Holes of 2 Sizes](https://www.amazon.co.uk/dp/B097TQHRL8)
+
+* [Army Painter Mixing Ball Bearings](https://elementgames.co.uk/orks/the-army-painter/mixing-balls)
 
 * [Citadel Old Style Knife](https://www.waylandgames.co.uk/citadel-tools-knife-99239999117)
 
 * [Feldherr MAXI bag](https://elementgames.co.uk/gaming-and-accessories/cases-and-bags/feldherr/feldherr-maxi-bag-for-citadel-tools-paint-pots-miniatures)
 
+* [Game Envy Hobby Holder](https://elementgames.co.uk/fantasy-miniatures-games/reaper-bones/accessories/game-envy-hobby-holder) 
+
+* [Minerature Painting drybrush](https://www.amazon.co.uk/Miniature-Painting-Drybrush-Citadel-Brushes/dp/B0DG24M7NJ)
 <p></p>
 
 * **Paints and Primers**
 
   * ***BASE PAINTS***
-
-      * TBC
+  
+  * ***LAYERS***
    
   * ***SHADES***
 
@@ -195,11 +206,14 @@ _(please consult Elizabeth, or myself about this)_
 
   * ***TECHNICAL***
 
-      * [Stirland Mud](https://www.warhammer.com/en-GB/shop/Technical-Stirland-Mud-2019)
+  * ***AIR***
+
+  * ***DRY***
 
   * ***SPARY / PRIMERS***
   
       * [Wraithbone](https://www.warhammer.com/en-GB/shop/Wraithbone-Spray-UK-ROW-2020)
+      * [Mephiston Red](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/mephiston-red-spray2)
 
 
 <p style="text-align:right" markown="1">
