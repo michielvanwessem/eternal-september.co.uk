@@ -86,7 +86,7 @@ _(please consult Elizabeth, or myself about this)_
 <a name="warhammer"></a>
 #### Warhammer 40,000 
 
-  * ***Accessories ***
+  * ***Tabletop Gaming Accessories ***
 
       * [Black Templar Dice Set](https://elementgames.co.uk/games-workshop/warhammer-40k/space-marines/warhammer-40000-black-templars-dice)
 
@@ -117,8 +117,6 @@ _(please consult Elizabeth, or myself about this)_
       * [Black Templars Castellan](https://www.warhammer.com/en-GB/shop/black-templars-castellan-2021)
 
       * [Black Templars: Upgrade and Transfers](https://www.warhammer.com/en-GB/shop/black-templars-upgrades-and-transfers-2021)
-
-      * [Black Templars: Sword Brethern](https://www.warhammer.com/en-GB/shop/black-templars-sword-brethren-2021)
 
       * [Black Templars: Primaris Crusader Squad](https://www.warhammer.com/en-GB/shop/black-templars-primaris-crusader-squad-2021)
 
@@ -176,19 +174,15 @@ _(please consult Elizabeth, or myself about this)_
 <a name="artscrafts"></a>
 #### Arts and Crafts related
 
-* [Games Workshop Citadel Detail Cutters](https://www.warhammer.com/en-GB/shop/citadel-tools-cutters-2022) or [Tamiya 300074123 Diagonal Pointed Plastic](https://www.amazon.co.uk/dp/B010PG73J4) or [Tamiya Sharp Pointed Side Cutter For Plastic - Slim Jaw](https://www.amazon.co.uk/Tamiya-300074123-Diagonal-Pointed-Plastic/dp/B010PG73J4)  
-
-* [Plydolex Paint Rack Organizer with 65 Holes of 2 Sizes](https://www.amazon.co.uk/dp/B097TQHRL8)
-
-* [Army Painter Mixing Ball Bearings](https://elementgames.co.uk/orks/the-army-painter/mixing-balls)
-
-* [Citadel Old Style Knife](https://www.waylandgames.co.uk/citadel-tools-knife-99239999117)
-
 * [Feldherr MAXI bag](https://elementgames.co.uk/gaming-and-accessories/cases-and-bags/feldherr/feldherr-maxi-bag-for-citadel-tools-paint-pots-miniatures)
 
 * [Game Envy Hobby Holder](https://elementgames.co.uk/fantasy-miniatures-games/reaper-bones/accessories/game-envy-hobby-holder) 
 
-* [Minerature Painting drybrush](https://www.amazon.co.uk/Miniature-Painting-Drybrush-Citadel-Brushes/dp/B0DG24M7NJ)
+
+#### Scenery and Terrain Building & Enhancements
+
+* [Battlefiled Basing Set](https://www-.elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/battlefields-basing-set)
+
 <p></p>
 
 * **Paints and Primers**
@@ -200,13 +194,10 @@ _(please consult Elizabeth, or myself about this)_
   * ***SHADES***
 
       * [Seraphin Sepia](https://www.warhammer.com/en-GB/shop/shade-seraphim-sepia-18ml-2022)
-      * [Agrax Earthshade](https://www.warhammer.com/en-GB/shop/shade-agrax-earthshade-18ml-2022)
       * [Casandora Yellow](https://www.warhammer.com/en-GB/shop/shade-agrax-earthshade-18ml-2022)
       * [Reikland Fleshshade](https://www.warhammer.com/en-GB/shop/shade-reikland-fleshshade-18ml-2022)
 
   * ***TECHNICAL***
-
-  * ***AIR***
 
   * ***DRY***
 
