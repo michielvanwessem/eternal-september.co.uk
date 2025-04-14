@@ -86,6 +86,20 @@ _(please consult Elizabeth, or myself about this)_
 <a name="warhammer"></a>
 #### Warhammer 40,000 
 
+  * ***MERCHANDISE ***
+
+      * [Space Marine Insigna - tshirt: 3XL](https://merch.warhammer.com/products/space-marines-insignia-t-shirt)
+
+      * [Black Templars: The Emperors Wrath - tshirt: 3XL](https://merch.warhammer.com/products/black-templars-the-emperors-wrath-t-shirt)
+
+      * [Black Templars: Battle Worn Insigna - shirt 3XL](https://merch.warhammer.com/products/black-templars-battleworn-insignia-t-shirt)
+      
+      * [Black Templars: Insigna - Hoodie 3XL](https://merch.warhammer.com/products/black-templars-insignia-hoodie)
+
+      * [Black Templars: Battle Worn Insigna - Hoodie: 3XL](https://merch.warhammer.com/products/black-templars-battleworn-insignia-t-shirt) 
+
+
+
   * ***Tabletop Gaming Accessories ***
 
       * [Black Templar Dice Set](https://elementgames.co.uk/games-workshop/warhammer-40k/space-marines/warhammer-40000-black-templars-dice)
@@ -167,7 +181,7 @@ _(please consult Elizabeth, or myself about this)_
 
       * [Space Wolves: Combat Patrol](https://elementgames.co.uk/wargames-and-miniatures/sci-fi-miniatures-games/warhammer-40k/starting-an-army/space-wolves/combat-patrol-space-wolves)
 
-
+  &nbsp;
   * ***Kill Team Sets***
 
       **Preferably buy book and starter set together:**
@@ -175,7 +189,6 @@ _(please consult Elizabeth, or myself about this)_
       * [Kill Team: Starter set](https://www.warhammer.com/en-GB/shop/kill-team-starter-set-2024-eng)****
 
       * [Warhammer 40,000 - Kill Team: Core Book](https://www.warhammer.com/en-GB/shop/kill-team-core-book-2024-eng)
-
 
       * Additional Units to the base game above
 
