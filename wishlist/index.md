@@ -7,6 +7,8 @@ logo: 'assets/images/ghost.png'
 current: wishlist
 ---
 
+<!-- markdownlint-disable MD012 MD022 MD026 MD033 -->
+
 Since I am notoriously bad for remebering what kind of thing	s I really want to have, doubly so when the time for things like Christmas, my birthday or anything else comes around, I have decided to keep a wish list of sorts.
 
 Mostly because this means a lot less hassle for people who want to give me something rather then money, and part because I actually contains things I actively want to have.
@@ -19,7 +21,8 @@ Or ... as [Elizabeth](http://historygeek.co.uk/) told me:
 <div style="text-align:center" markdown="1">
 
 ## Index:    
-[books](#books), 
+
+[books](#books),
 [kindle](#kindle),
 [warhammer](#warhammer),
 [arts and crafts](#artscrafts),
@@ -58,9 +61,6 @@ _(please consult Elizabeth, or myself about this)_
 
 <a name="books"></a> 
 #### Books (hardcopy)
-
-* [Warhammer 40,000 - CODEX: Space Marines (10th Edition)](https://www.amazon.co.uk//dp/1804572381)
-
 
 <p style="text-align:right" markown="1">
   <a href="#index">...back to top</a>
@@ -135,7 +135,14 @@ _(please consult Elizabeth, or myself about this)_
 
       * [Primaris Techmarine](https://elementgames.co.uk/games-workshop/warhammer-40k/space-marines/primaris-techmarine) (up to three)
 
+      * [Chaplain on a bike](https://www.warhammer.com/en-GB/shop/Primaris-Chaplain-on-Bike-2020)
+
+      * [Space Marine: Honoured of the Chapter](https://www.warhammer.com/en-GB/shop/Space-Marines-Honoured-Of-The-Chapter-2021)  
+
+
   * ***Faction: Black Templars***
+
+      * [Black Templars: Combat Patrol (new 2025)](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/warhammer-40k/combat-patrol-black-templars)
 
       * [High Marshall Hellbrecht](https://www.warhammer.com/en-GB/shop/black-templars-high-marshal-helbrecht-2021)
 
@@ -215,6 +222,8 @@ _(please consult Elizabeth, or myself about this)_
 <a name="artscrafts"></a>
 #### Arts and Crafts related
 
+* **GOOD** quality brushes, small/medium for modelpainting.
+
 * [Feldherr MAXI bag](https://elementgames.co.uk/gaming-and-accessories/cases-and-bags/feldherr/feldherr-maxi-bag-for-citadel-tools-paint-pots-miniatures)
 
 * [Game Envy Hobby Holder](https://elementgames.co.uk/fantasy-miniatures-games/reaper-bones/accessories/game-envy-hobby-holder) 
@@ -227,6 +236,15 @@ _(please consult Elizabeth, or myself about this)_
 
 * [Battlefiled Basing Set](https://www-.elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/battlefields-basing-set)
 
+* [Batlefield Rocks](https://elementgames.co.uk/paints-hobby-and-scenery/paints-hobby-and-scenery-by-manufacturer/the-army-painter/basing-and-accessories/battlefields-battlefield-rocks)
+
+* [Battlefield Brown Basing](<https://elementgames.co.uk/paints-hobby-and-scenery/bases-for-miniatures/battlefields-brown-battleground-basing>
+
+* [Battlefield Lowland Scrubs](https://elementgames.co.uk/paints-hobby-and-scenery/scenery/basing-and-accessories/battlefields-xp-lowland-shrubs)
+
+* [Battlefield concrete rubble](https://elementgames.co.uk/paints-hobby-and-scenery-by-manufacturer/the-army-painter/basing-and-accessories/hobby-round-concrete-rubble-mix)
+
+
 <p></p>
 
 * **Citatel Paints, Layers, Shades, Technical, and Primers**
@@ -237,16 +255,24 @@ _(please consult Elizabeth, or myself about this)_
       * [Corvus Black](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/base-corvus-black-12ml)
       * [Wraithbone](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/base-wraithbone-12ml)  
       * [Leadbelcher](https://elementgames.co.uk/p3-paints/citadel-base/citadel-base-leadbelcher)
+    * [Grey Knights Steel](https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/citadel-games-workshop-paints/citadel-base/base-grey-knights-steel-12ml)
+      * [Mechanicus Standard Grey](https://elementgames.co.uk/games-workshop/citadel-games-workshop-paints/citadel-base/citadel-base-mechanicus-standard-grey)
+      * [Incubi Darkness](https://elementgames.co.uk/p3-paints/citadel-base/citadel-base-incubi-darkness)
+      * [Balthasar Gold](https://elementgames.co.uk/games-workshop/citadel-games-workshop-paints/citadel-base/citadel-base-balthasar-gold)
 
   * ***LAYERS***
+      * [Dawnstone](https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/citadel-layer-1/citadel-layer-dawnstone)
       * [Phalanx Yellow](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/layer-phalanx-yellow-12ml)
       * [Yriel Yellow](https://elementgames.co.uk/games-workshop/citadel-games-workshop-paints/citadel-layer-1/citadel-layer-yriel-yellow)
       * [Ulthuan Grey](https://elementgames.co.uk/p3-paints/citadel-layer-1/citadel-layer-ulthuan-grey)
       * [Doombull Brown](https://elementgames.co.uk/games-workshop/citadel-games-workshop-paints/citadel-layer-1/citadel-layer-doombull-brown)
+      * [Dark Reaper](https://elementgames.co.uk/games-workshop/citadel-games-workshop-paints/citadel-layer-1/citadel-layer-dark-reaper)
+      * [Evil Sunz Scarlet](https://elementgames.co.uk/games-workshop/citadel-games-workshop-paints/citadel-layer-1/citadel-layer-evil-sunz-scarlet)
+      * [Stormhost Silver](https://elementgames.co.uk/p3-paints/citadel-layer-1/citadel-layer-stormhost-silver)
 
-
-  * *** CONTRASTS***
+  * ***CONTRASTS***
       * [Talassar Blue](https://elementgames.co.uk/games-workshop/citadel-games-workshop-paints/citadel-contrast/contrast-talassar-blue-18ml)
+    * [Black Templar](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/contrast-black-templar-18ml)
 
   * ***SHADES***
 
@@ -254,19 +280,19 @@ _(please consult Elizabeth, or myself about this)_
 
   * ***TECHNICAL***
      
-      * [Techncial Lahmian Medium](https://www.warhammer.com/en-GB/shop/Technical-Lahmian-Medium-2019)
+      * [Techncial Lahmian Medium](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/technical-lahmian-medium-24ml)
       * [Techncial Contrast Medium](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/technical-contrast-medium-24ml)
-      * [Technical Ardcoat](https://www.warhammer.com/en-GB/shop/Technical-Ardcoat-2019)
+      * [Technical Ardcoat](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/technical-ardcoat-24ml)
       * [Technical Mordant Earth](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/technical-mordant-earth-24ml)
 
   * ***DRY***
-      * [Ryza Rust](https://www.waylandgames.co.uk/citadel-dry-ryza-rust-99189952018)
+      * [Ryza Rust](https://elementgames.co.uk/games-workshop/citadel-games-workshop-paints/citadel-technical/ryza-rust)
 
 
   * ***SPARY / PRIMERS***
   
       * [Chaos Black](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/chaos-black-primer-spray)
-      * [Wraithbone](https://www.warhammer.com/en-GB/shop/Wraithbone-Spray-UK-ROW-2020)
+      * [Wraithbone](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/wraithbone-spray-400ml)
       * [Mephiston Red](https://elementgames.co.uk/wargames-and-miniatures-by-manufacturer/games-workshop/citadel-games-workshop-paints/mephiston-red-spray2)
 
 
@@ -352,16 +378,14 @@ _(please consult Elizabeth, or myself about this)_
 * [Glencairn EdingBurgh Tumbler](https://glencairn.co.uk/product/edinburgh-whisky-tumbler/)
 
 * [Cut Glencairn Mixer](https://glencairn.co.uk/product/cut-glencairn-mixer/)
-
-* [Glencairn Copita Tasting Glass](https://glencairn.co.uk/product/glencairn-copita-with-tasting-cap/)
-	
+ 
 <p style="text-align:right" markown="1">
   <a href="#index">...back to top</a>
   &nbsp;
 </p>
 
-
 <a name="misc"></a>
+
 #### Miscellaneous
 
 <p style="text-align:right" markown="1">
